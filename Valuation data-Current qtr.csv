@@ -1,0 +1,1051 @@
+PolicyNumber,Premium,SumAssured,EscalationRate,EscalationCode,IssueAge,CurrentAge,BenefitEndAge,Gender,SmokerStatus,LivesType,PremiumEscalation,PremiumType,ContractType,BenefitType,ProductType,PolicyStatus,Duration,Commission,SubstandardPremium,STC,Currency
+POL00001,2150.31,173130,0.008,B,56,25,62,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,3,0.104,275.9,Standard,INR
+POL00002,0,317240,0.007,C,26,33,60,Other,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Terminated,11,0.114,160.57,Standard,USD
+POL00003,2635.91,122083,0.007,D,50,29,79,Male,Smoker,Single,Yes,Level,Long Term,Rider,Endowment,Continuing,7,0.112,228.01,Standard,EUR
+POL00004,4532.07,434044,0.026,B,50,49,65,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,26,0.134,174.92,Special,USD
+POL00005,4761.87,431483,0.025,C,56,52,80,Female,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,3,0.067,53.74,Special,INR
+POL00006,1182.23,265049,0.031,B,35,54,71,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,30,0.099,354.41,Standard,INR
+POL00007,3112.42,398161,0.022,A,30,32,64,Male,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,12,0.058,367.05,Special,GBP
+POL00008,4569.68,182930,0.003,A,28,50,76,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,10,0.086,130.05,Special,USD
+POL00009,3205.74,79533,0,A,28,30,73,Other,Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,16,0.102,13.94,Special,EUR
+POL00010,2826.46,248240,0.011,D,20,61,62,Male,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,8,0.063,169.69,Standard,INR
+POL00011,4827.33,257944,0.043,B,44,30,74,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,17,0.104,377.22,Standard,USD
+POL00012,2813.34,203420,0.013,C,46,30,74,Other,Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Continuing,16,0.14,90.13,Special,GBP
+POL00013,3710.28,133313,0.03,C,47,45,63,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,21,0.104,28.56,Special,EUR
+POL00014,0,278149,0.03,C,57,30,65,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Terminated,26,0.138,159.24,Standard,USD
+POL00015,1411.7,58636,0.05,D,53,46,63,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,10,0.147,183.87,Standard,GBP
+POL00016,4599.3,398159,0.01,D,47,27,70,Other,Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,28,0.073,216.83,Standard,INR
+POL00017,1984.35,301849,0.038,B,30,37,74,Female,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,3,0.077,220.76,Standard,USD
+POL00018,1168.24,338658,0.012,B,24,51,60,Other,Smoker,Single,Yes,Level,Long Term,Rider,Endowment,Continuing,26,0.061,403.83,Special,EUR
+POL00019,2311.68,260794,0.016,A,43,61,60,Male,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,5,0.079,125.14,Special,INR
+POL00020,4818.01,175651,0,D,22,52,71,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,22,0.06,80.41,Special,USD
+POL00021,4558.16,257547,0.05,B,24,43,61,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,19,0.066,142.4,Special,GBP
+POL00022,3771.21,406732,0.022,C,48,58,79,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,5,0.122,261.8,Standard,USD
+POL00023,3562.03,313505,0.05,A,27,55,79,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,31,0.15,340.56,Special,GBP
+POL00024,4977.08,227642,0.01,B,22,24,61,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,12,0.109,0.97,Special,INR
+POL00025,0,415057,0.006,C,33,59,78,Female,Non-Smoker,Single,No,Level,Short Term,Rider,Whole Life,Terminated,25,0.074,451.71,Special,INR
+POL00026,3834.12,193353,0.013,A,34,24,73,Other,Non-Smoker,Single,No,Level,Short Term,Main,Term,Continuing,16,0.104,328.37,Special,EUR
+POL00027,3176.26,311651,0.034,C,34,56,74,Other,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,14,0.141,257.32,Special,EUR
+POL00028,3376.57,254970,0.029,C,22,43,71,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,20,0.055,280.42,Standard,GBP
+POL00029,2156.64,170962,0.021,C,37,65,60,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,30,0.061,137.98,Special,INR
+POL00030,1588.45,299830,0.036,A,56,53,74,Other,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,4,0.057,409.62,Special,GBP
+POL00031,4852.1,154054,0.029,A,32,27,76,Female,Non-Smoker,Joint,No,Level,Short Term,Main,ULIP,Continuing,29,0.142,126.47,Standard,GBP
+POL00032,4609.2,294455,0.029,C,21,38,76,Female,Non-Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,8,0.139,170.36,Special,USD
+POL00033,3762.82,251407,0.029,B,57,60,78,Other,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,21,0.113,381.53,Special,GBP
+POL00034,4181.87,108630,0.011,D,25,57,71,Female,Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,20,0.081,170.62,Standard,USD
+POL00035,1098.45,329777,0.005,C,35,21,61,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,7,0.071,160.71,Special,EUR
+POL00036,2911.18,296597,0.037,A,20,55,66,Female,Non-Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,25,0.075,131.18,Standard,GBP
+POL00037,4033.84,117160,0.031,A,54,27,74,Female,Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,31,0.112,30.44,Special,INR
+POL00038,1865.63,301796,0.048,D,51,21,62,Female,Smoker,Single,Yes,Level,Short Term,Rider,Term,Continuing,8,0.09,212.7,Standard,EUR
+POL00039,2272.72,242099,0.048,D,48,49,74,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,10,0.137,258.76,Special,INR
+POL00040,0,251479,0.037,D,38,50,72,Female,Smoker,Single,Yes,Level,Long Term,Rider,ULIP,Terminated,6,0.051,90.25,Standard,INR
+POL00041,1571.2,424983,0.022,A,31,27,64,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,8,0.132,409.32,Special,GBP
+POL00042,2658.19,373814,0.009,A,37,60,67,Female,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,30,0.14,498.32,Special,GBP
+POL00043,2654.9,255599,0.022,A,23,33,74,Other,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,14,0.109,338.87,Standard,INR
+POL00044,2475.38,284569,0.038,D,40,22,73,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,15,0.073,318.41,Standard,EUR
+POL00045,1609.78,159106,0.046,C,50,42,61,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,24,0.084,478.17,Standard,EUR
+POL00046,0,84137,0.045,C,33,33,63,Male,Non-Smoker,Single,Yes,Level,Short Term,Main,ULIP,Terminated,9,0.052,490.62,Special,USD
+POL00047,1932.14,226083,0.041,D,27,36,61,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,18,0.055,496.61,Standard,GBP
+POL00048,2863.85,55899,0.01,D,50,65,60,Female,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,6,0.095,170.26,Standard,EUR
+POL00049,2063.89,440375,0.002,C,38,59,66,Male,Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,23,0.066,367,Special,GBP
+POL00050,4431.31,496677,0.024,D,36,49,72,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,4,0.08,235.78,Standard,USD
+POL00051,1183.32,368985,0.03,C,36,21,74,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,14,0.063,214.5,Standard,INR
+POL00052,2768.8,422022,0.005,B,53,59,61,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,14,0.124,27.25,Standard,GBP
+POL00053,4195.7,451353,0.048,C,59,34,74,Female,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,9,0.123,448.97,Standard,INR
+POL00054,1487.6,292735,0.008,C,54,53,79,Female,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,23,0.101,242.29,Special,USD
+POL00055,3243.79,299891,0.046,A,46,54,79,Female,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,7,0.083,386.18,Standard,INR
+POL00056,1826.13,174398,0.006,A,37,33,79,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,21,0.121,77.54,Standard,INR
+POL00057,1510.13,346639,0.033,D,22,65,72,Male,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,20,0.119,491.5,Special,GBP
+POL00058,0,159546,0.039,B,43,23,69,Other,Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Terminated,15,0.081,370.57,Special,INR
+POL00059,4580.18,179720,0.038,A,21,47,62,Male,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,25,0.128,317.78,Standard,INR
+POL00060,2497.85,372101,0.034,C,22,44,65,Male,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,18,0.146,123.25,Standard,INR
+POL00061,3660.46,377390,0.006,B,35,37,80,Male,Non-Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,22,0.131,217.34,Standard,USD
+POL00062,1379.36,127869,0.043,A,49,39,61,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,4,0.073,94.89,Special,INR
+POL00063,2535.88,187840,0.031,C,40,45,64,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,16,0.147,400.06,Standard,INR
+POL00064,2097.53,216458,0.042,A,28,40,73,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,19,0.104,327.4,Special,EUR
+POL00065,4258.56,84975,0.008,A,45,55,77,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,30,0.084,293.77,Special,INR
+POL00066,2794.07,370918,0.001,C,36,34,64,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,5,0.088,180.96,Standard,INR
+POL00067,4240.26,297915,0.016,D,60,31,64,Other,Non-Smoker,Joint,No,Level,Short Term,Main,ULIP,Continuing,17,0.087,328.63,Special,GBP
+POL00068,4249.56,111139,0.013,D,54,24,76,Other,Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,8,0.139,453.34,Special,GBP
+POL00069,4177.37,488374,0.041,C,55,41,68,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,5,0.075,455.38,Special,USD
+POL00070,0,302883,0.047,B,20,38,74,Other,Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Terminated,17,0.132,401.45,Special,INR
+POL00071,4017.9,404784,0.006,D,57,65,77,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,12,0.141,51,Standard,USD
+POL00072,3516.88,432011,0.046,A,29,42,73,Female,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,25,0.087,11.55,Standard,USD
+POL00073,3840.73,445119,0.03,D,58,56,61,Other,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,3,0.084,137.59,Standard,INR
+POL00074,1002.5,410214,0.02,C,42,59,63,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,28,0.071,65.62,Standard,INR
+POL00075,2901.27,338067,0.033,C,45,23,67,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,29,0.098,118.2,Standard,GBP
+POL00076,1880.48,333017,0.038,B,35,50,62,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Whole Life,Continuing,28,0.103,175.18,Special,EUR
+POL00077,2519.27,172134,0.026,D,49,60,63,Female,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,2,0.077,90.12,Standard,USD
+POL00078,3451.08,63473,0.02,C,40,43,76,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,30,0.11,215.47,Special,GBP
+POL00079,2407.19,238939,0.048,D,55,54,61,Female,Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,29,0.09,261.43,Special,USD
+POL00080,1444.54,209946,0.002,D,44,37,69,Male,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,20,0.082,358.56,Standard,INR
+POL00081,1974.48,226549,0.008,C,42,31,77,Other,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,11,0.112,158.63,Special,USD
+POL00082,3672.22,127372,0.035,C,31,27,64,Female,Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,21,0.11,124.13,Special,GBP
+POL00083,2670.59,193839,0.036,A,26,48,64,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,18,0.067,376.5,Standard,INR
+POL00084,4152.78,236100,0.005,B,40,54,76,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,8,0.08,310.45,Standard,GBP
+POL00085,1411.46,391701,0.023,C,44,26,60,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,28,0.133,450.57,Standard,EUR
+POL00086,0,172351,0.032,D,43,32,73,Other,Smoker,Single,No,Level,Long Term,Main,Whole Life,Terminated,30,0.077,339.27,Standard,GBP
+POL00087,4939.83,102012,0.02,C,46,33,71,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,24,0.062,123.78,Standard,USD
+POL00088,4572.2,63201,0.05,B,57,32,73,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,11,0.093,53.58,Standard,GBP
+POL00089,4545.88,413085,0.034,C,47,33,78,Female,Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,11,0.13,330.1,Special,EUR
+POL00090,1700.21,266057,0.016,A,37,21,74,Other,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,31,0.057,260.81,Special,USD
+POL00091,1522.78,412812,0.008,A,33,60,78,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,6,0.075,311.91,Standard,EUR
+POL00092,3612.41,85553,0.015,D,57,60,80,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,16,0.056,5.69,Special,GBP
+POL00093,2374.07,101902,0.005,C,45,56,74,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,Term,Continuing,14,0.068,87.67,Special,USD
+POL00094,3627.03,108237,0.001,B,57,45,77,Other,Non-Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,23,0.142,439.71,Standard,USD
+POL00095,2281.49,382437,0.016,B,59,52,67,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,10,0.138,300.52,Special,USD
+POL00096,1750.76,390694,0.037,A,48,29,77,Female,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,12,0.125,240.48,Standard,EUR
+POL00097,0,496605,0.048,A,42,24,77,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Terminated,9,0.099,108.11,Special,GBP
+POL00098,1374.38,331049,0.021,A,26,53,67,Male,Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,25,0.066,497.75,Standard,INR
+POL00099,2867.12,179911,0.026,D,23,65,76,Female,Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,18,0.108,71.88,Special,EUR
+POL00100,3046.02,139960,0.003,D,31,42,74,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,29,0.147,137.11,Standard,GBP
+POL00101,3399.96,410413,0.031,C,37,25,76,Female,Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,6,0.142,16.74,Special,GBP
+POL00102,2331.29,377493,0.018,D,45,31,70,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,31,0.128,29,Standard,USD
+POL00103,2954.45,147672,0.021,A,36,62,64,Female,Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,11,0.128,478.36,Special,USD
+POL00104,4817.9,384907,0.048,A,49,45,61,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,7,0.106,467.94,Standard,USD
+POL00105,2931.61,439994,0.034,C,52,47,60,Male,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,18,0.097,224.84,Standard,INR
+POL00106,4561.4,288233,0.036,B,57,36,63,Female,Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,19,0.121,231.76,Standard,INR
+POL00107,4657.75,319387,0.009,C,53,62,73,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,16,0.067,184.65,Special,USD
+POL00108,3434.94,471935,0.01,B,52,64,76,Male,Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,8,0.12,422.35,Standard,EUR
+POL00109,2642.76,477826,0.044,C,43,65,79,Female,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,24,0.11,461.98,Standard,EUR
+POL00110,1588.38,347240,0.042,C,53,46,75,Female,Smoker,Joint,Yes,Increasing,Short Term,Rider,Term,Continuing,20,0.119,391.22,Special,USD
+POL00111,4741.2,82529,0.036,C,40,32,61,Male,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,22,0.085,491.76,Special,EUR
+POL00112,2204.92,421849,0.014,A,30,55,80,Other,Smoker,Single,No,Increasing,Long Term,Main,Whole Life,Continuing,17,0.124,312.47,Standard,INR
+POL00113,1242.88,265795,0.01,D,49,43,79,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,22,0.13,117.52,Special,INR
+POL00114,4790.91,226053,0.025,D,27,56,67,Male,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,29,0.056,475.83,Special,USD
+POL00115,3882.39,184605,0.026,B,48,59,64,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,8,0.063,56.07,Standard,GBP
+POL00116,1569.18,159939,0.011,C,53,25,75,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Continuing,10,0.067,400.28,Standard,GBP
+POL00117,3197.14,239815,0.038,A,33,37,72,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Endowment,Continuing,5,0.075,234.44,Special,USD
+POL00118,4816.36,471997,0.001,C,23,53,78,Female,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,5,0.06,11.69,Standard,GBP
+POL00119,3341.93,169018,0.036,C,45,56,74,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Term,Continuing,12,0.15,36.58,Special,EUR
+POL00120,2618.04,305856,0.042,C,55,37,66,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,28,0.062,223,Standard,GBP
+POL00121,3591.57,140983,0.047,A,36,38,66,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,30,0.141,133.65,Special,INR
+POL00122,2279.28,136763,0.033,D,29,64,78,Female,Non-Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,30,0.058,482.93,Standard,GBP
+POL00123,2230.88,373375,0.013,C,20,40,72,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,23,0.064,229.64,Special,GBP
+POL00124,1879.07,191083,0.011,A,33,29,72,Other,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,13,0.133,374.95,Standard,INR
+POL00125,2477.96,112276,0.043,C,24,22,73,Male,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,16,0.081,149.98,Standard,INR
+POL00126,4936.88,76114,0.001,D,32,64,75,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,14,0.122,277.24,Special,USD
+POL00127,1616.81,468995,0.043,C,34,46,62,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,13,0.096,476.98,Standard,INR
+POL00128,1364.18,305752,0.026,D,47,23,78,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,15,0.104,423.95,Special,USD
+POL00129,1567.63,102997,0.022,C,57,25,75,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,9,0.073,296.18,Special,GBP
+POL00130,3760.03,304158,0.047,A,39,42,78,Male,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,22,0.148,13.06,Special,EUR
+POL00131,3477.03,293115,0.008,A,60,52,61,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,7,0.131,274.45,Special,GBP
+POL00132,4565.58,418857,0.019,C,39,46,79,Female,Non-Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,30,0.135,368.88,Standard,USD
+POL00133,3692,366341,0.007,A,26,21,61,Male,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,10,0.11,476.37,Standard,GBP
+POL00134,3948.31,305487,0.007,B,51,26,60,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,17,0.124,3.02,Standard,EUR
+POL00135,3084.54,374589,0.034,C,40,29,61,Female,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,16,0.144,467.27,Standard,EUR
+POL00136,3639.35,388600,0.028,A,51,41,66,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,13,0.103,382.03,Standard,EUR
+POL00137,4287.22,221640,0.024,A,58,42,61,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,18,0.096,187.82,Special,USD
+POL00138,4145.13,179605,0.041,D,55,60,67,Male,Non-Smoker,Joint,No,Level,Long Term,Main,Whole Life,Continuing,8,0.099,15.14,Standard,INR
+POL00139,0,289257,0.048,A,49,38,65,Male,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Terminated,19,0.131,252.4,Special,USD
+POL00140,2757.73,166841,0.026,D,53,45,79,Other,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,2,0.118,273.9,Special,GBP
+POL00141,2246.81,424306,0.035,C,54,31,69,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,20,0.113,84.09,Standard,GBP
+POL00142,2637.9,232414,0.009,C,54,40,62,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,4,0.077,365.34,Special,INR
+POL00143,1041.87,82684,0.018,C,24,47,69,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Endowment,Continuing,14,0.058,123.03,Special,EUR
+POL00144,1735.4,479191,0.002,D,56,29,76,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,29,0.112,350.04,Standard,EUR
+POL00145,4370.92,147733,0.008,D,23,57,68,Other,Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,3,0.058,37.03,Standard,INR
+POL00146,1924.65,232531,0.005,B,53,30,74,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,23,0.128,412.37,Special,USD
+POL00147,1956.4,331551,0.014,D,37,56,80,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,8,0.103,371.69,Standard,USD
+POL00148,1306.76,332782,0.019,A,57,38,76,Female,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,8,0.111,232.37,Special,EUR
+POL00149,1982.89,197707,0.032,B,54,55,77,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,3,0.054,204.97,Standard,USD
+POL00150,3928.54,112509,0.035,D,48,40,80,Other,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,6,0.093,272.84,Standard,INR
+POL00151,4389.81,461596,0.016,B,42,31,75,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,24,0.068,356.61,Special,GBP
+POL00152,2990.11,319602,0.048,C,29,60,60,Other,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,24,0.063,196.64,Standard,USD
+POL00153,2551.64,387323,0.035,C,37,47,62,Other,Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,25,0.125,208.12,Standard,INR
+POL00154,1985.8,463530,0.008,B,21,55,75,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,2,0.071,104.06,Special,EUR
+POL00155,1444.39,287944,0.018,C,53,37,69,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,4,0.125,35.89,Standard,GBP
+POL00156,0,217390,0.015,A,52,54,63,Other,Smoker,Single,No,Level,Short Term,Main,Whole Life,Terminated,4,0.067,106.46,Special,EUR
+POL00157,3287.74,79614,0.023,D,27,39,80,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,9,0.082,72.2,Special,USD
+POL00158,1867.57,434466,0.041,D,41,43,67,Female,Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,25,0.078,53.64,Standard,GBP
+POL00159,2779.07,279685,0.012,C,37,55,76,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,15,0.102,386.1,Standard,EUR
+POL00160,1871.96,144499,0.02,A,55,49,75,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,8,0.132,450.15,Special,GBP
+POL00161,0,219130,0.049,D,25,48,63,Other,Non-Smoker,Single,No,Level,Short Term,Main,Endowment,Terminated,6,0.062,111.08,Special,EUR
+POL00162,2415.62,143314,0.006,B,60,62,70,Male,Smoker,Single,Yes,Level,Short Term,Main,Endowment,Continuing,7,0.118,234.29,Standard,INR
+POL00163,3599.94,256658,0.032,D,32,33,69,Male,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,12,0.096,38.64,Standard,USD
+POL00164,2498.86,158676,0.035,D,33,38,63,Female,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,4,0.139,195.95,Special,USD
+POL00165,2421.78,103411,0.03,A,44,40,71,Female,Non-Smoker,Single,Yes,Level,Short Term,Main,Endowment,Continuing,21,0.132,26.33,Standard,INR
+POL00166,3134.75,82611,0.05,B,32,46,63,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Continuing,19,0.053,231.82,Special,INR
+POL00167,3961.34,360945,0.002,C,58,54,69,Female,Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,24,0.14,138.1,Special,EUR
+POL00168,1884.41,179131,0.05,A,55,55,77,Other,Non-Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,31,0.051,3.54,Special,USD
+POL00169,2650.98,117236,0.037,A,28,58,74,Male,Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,2,0.06,317.48,Special,INR
+POL00170,2062.75,487594,0.022,A,41,26,71,Other,Smoker,Single,No,Level,Long Term,Rider,Endowment,Continuing,20,0.118,257.08,Special,EUR
+POL00171,3519.89,234731,0.008,A,60,47,61,Male,Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,11,0.086,182.19,Special,EUR
+POL00172,1735.31,230816,0.022,C,53,29,78,Other,Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,26,0.069,313.46,Standard,USD
+POL00173,4454.58,341850,0.009,A,31,57,76,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,13,0.094,148.88,Standard,USD
+POL00174,3986.27,462338,0.021,B,60,34,72,Female,Non-Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,8,0.121,432.75,Standard,GBP
+POL00175,3673.14,147498,0.041,A,28,38,73,Male,Non-Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,31,0.106,236.71,Standard,EUR
+POL00176,3472.07,296599,0.003,C,37,23,68,Other,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,2,0.084,214.09,Special,INR
+POL00177,2488.95,374023,0.016,C,50,41,67,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,23,0.06,265.84,Standard,GBP
+POL00178,3119.34,228761,0.042,C,28,24,80,Other,Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,15,0.105,49.47,Special,INR
+POL00179,4498.73,92301,0.002,C,59,51,72,Male,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,25,0.106,413.32,Special,INR
+POL00180,3327,335703,0.04,A,44,37,70,Male,Non-Smoker,Single,Yes,Level,Short Term,Main,Endowment,Continuing,28,0.143,488.3,Standard,INR
+POL00181,4359.07,51115,0.048,D,53,36,64,Female,Smoker,Joint,No,Level,Long Term,Rider,Whole Life,Continuing,16,0.12,262.9,Special,INR
+POL00182,2249.79,144735,0.033,B,53,64,78,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,28,0.125,453.92,Special,USD
+POL00183,3833.16,355560,0,A,56,42,73,Female,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,6,0.144,224.04,Special,INR
+POL00184,2060.07,439785,0.023,B,21,51,63,Female,Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,6,0.097,192.25,Special,GBP
+POL00185,3377.37,409864,0.036,B,39,39,79,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,25,0.063,177.87,Standard,INR
+POL00186,2925.16,110748,0.001,D,57,63,72,Female,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,19,0.077,392.43,Standard,EUR
+POL00187,2060.13,224374,0.042,C,55,63,62,Other,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,2,0.121,78.47,Standard,INR
+POL00188,3258.36,404812,0.037,B,39,37,73,Other,Non-Smoker,Single,No,Level,Short Term,Main,Endowment,Continuing,5,0.055,146.85,Special,USD
+POL00189,4652.75,361811,0.013,A,39,51,63,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,21,0.088,224.99,Standard,GBP
+POL00190,4607.5,317423,0.037,C,59,55,64,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,23,0.122,48.79,Special,USD
+POL00191,2096.67,105736,0.034,A,35,62,76,Female,Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,13,0.054,43.97,Standard,USD
+POL00192,2285.93,299785,0.009,C,21,64,61,Other,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,7,0.076,234.74,Special,EUR
+POL00193,4942.56,252235,0.033,D,35,45,76,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,12,0.148,464.31,Standard,GBP
+POL00194,3479.97,394775,0.047,A,39,34,69,Other,Non-Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,9,0.057,126.38,Standard,USD
+POL00195,0,61744,0.043,B,20,35,63,Other,Non-Smoker,Joint,No,Level,Long Term,Main,Term,Terminated,16,0.066,290.37,Standard,USD
+POL00196,2866.13,137827,0.039,C,36,43,73,Male,Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,6,0.149,26.64,Standard,INR
+POL00197,2627.33,446556,0.034,D,28,54,76,Other,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,5,0.075,13.71,Special,INR
+POL00198,3636.92,99411,0.03,B,57,30,64,Female,Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,16,0.051,58.87,Special,GBP
+POL00199,1609.39,485848,0.02,C,51,30,73,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,2,0.088,50.67,Standard,EUR
+POL00200,3291.47,223339,0.006,D,59,38,62,Other,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,8,0.061,55.96,Special,USD
+POL00201,1954.9,436366,0.041,D,59,63,69,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,12,0.112,379.34,Special,INR
+POL00202,4849.44,449323,0.036,B,44,64,64,Female,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Endowment,Continuing,3,0.133,232.7,Standard,GBP
+POL00203,3405.46,270091,0.039,D,29,25,60,Other,Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,12,0.105,5.57,Standard,EUR
+POL00204,3060.12,373141,0.001,B,45,57,77,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,8,0.073,372.31,Standard,INR
+POL00205,2610.29,269018,0.009,B,51,29,74,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,23,0.056,376.78,Special,USD
+POL00206,0,494919,0.03,C,38,49,77,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Terminated,31,0.077,306.18,Special,EUR
+POL00207,2456.37,79138,0.004,D,59,23,69,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,2,0.073,309.34,Special,USD
+POL00208,2152.96,120948,0.035,D,30,63,75,Other,Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,19,0.095,450.09,Standard,EUR
+POL00209,1682.58,403407,0.028,B,34,46,74,Female,Non-Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,6,0.124,118.35,Standard,USD
+POL00210,1688.69,293985,0.014,B,26,48,76,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,24,0.125,294.94,Special,USD
+POL00211,2928.17,237446,0.02,D,47,34,79,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,18,0.068,140.62,Standard,GBP
+POL00212,2011.86,499497,0.034,C,22,65,66,Male,Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,8,0.115,488.86,Special,EUR
+POL00213,1865.02,165053,0.008,D,37,32,75,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,29,0.109,48.38,Special,GBP
+POL00214,3697.51,278544,0.005,C,37,34,77,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,18,0.134,208.91,Standard,EUR
+POL00215,1190.65,85537,0.027,C,44,41,73,Female,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,5,0.104,59.16,Standard,INR
+POL00216,3803.41,416151,0.005,D,37,30,80,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,16,0.104,78.81,Special,GBP
+POL00217,2407.55,221981,0.005,B,52,41,70,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,12,0.132,176.77,Standard,GBP
+POL00218,2635.78,410982,0.032,C,49,25,71,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,4,0.101,303.42,Special,INR
+POL00219,4283.81,139066,0.028,A,23,44,72,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,5,0.123,35.58,Special,EUR
+POL00220,4675.43,475880,0.015,B,29,38,74,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,26,0.124,92.34,Special,INR
+POL00221,2130.11,205553,0.013,B,38,30,72,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,Whole Life,Continuing,12,0.114,191.93,Standard,GBP
+POL00222,4844.42,284923,0.032,B,57,28,60,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,17,0.119,375.03,Standard,INR
+POL00223,3913.58,100260,0.042,D,40,52,71,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,24,0.135,143.33,Standard,USD
+POL00224,3745.5,448689,0.003,C,55,29,60,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,18,0.112,31.95,Standard,GBP
+POL00225,1211.38,479415,0.05,A,27,25,74,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,14,0.113,280.45,Standard,EUR
+POL00226,2580.88,68171,0.001,D,26,60,70,Male,Non-Smoker,Joint,No,Increasing,Short Term,Rider,ULIP,Continuing,15,0.056,304.16,Standard,INR
+POL00227,2911.38,272127,0.009,A,52,46,80,Female,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,11,0.071,346.42,Special,GBP
+POL00228,3241.01,151729,0.016,D,53,21,64,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,12,0.073,369.5,Special,INR
+POL00229,3793.05,436460,0.043,C,59,64,62,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,26,0.087,300.99,Special,INR
+POL00230,4662.73,288921,0.009,A,32,62,61,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,18,0.145,439.04,Standard,INR
+POL00231,3473.4,52087,0.04,B,54,36,71,Female,Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,11,0.075,365.31,Special,EUR
+POL00232,2713.69,174902,0.043,A,51,52,79,Male,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,7,0.095,129.64,Standard,USD
+POL00233,3168.32,196341,0.024,D,31,21,65,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,10,0.073,281.8,Special,EUR
+POL00234,1233.91,314918,0.032,A,56,33,66,Female,Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,23,0.073,193.5,Standard,USD
+POL00235,2043.43,162358,0.016,C,23,39,63,Female,Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,30,0.139,130.47,Special,EUR
+POL00236,2588.61,69403,0.023,A,44,39,69,Female,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,11,0.088,190.62,Special,INR
+POL00237,1790.98,99805,0.047,A,46,48,70,Other,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,18,0.134,203.76,Special,EUR
+POL00238,4327.71,366689,0.012,B,31,46,68,Male,Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,15,0.051,274.42,Standard,INR
+POL00239,1611.55,472560,0.001,D,20,42,67,Female,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,13,0.114,456.45,Standard,EUR
+POL00240,4213.67,190026,0.048,B,44,54,73,Male,Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,28,0.143,244.34,Standard,GBP
+POL00241,3187.3,85322,0.013,C,36,65,73,Female,Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,30,0.1,472.43,Special,GBP
+POL00242,3649.27,194785,0.033,C,35,32,66,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,14,0.1,356.13,Special,GBP
+POL00243,1686.79,331207,0.004,D,57,65,65,Male,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,2,0.1,338.24,Special,GBP
+POL00244,0,248109,0.048,C,56,64,80,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Terminated,18,0.094,101.09,Standard,EUR
+POL00245,2247.48,410605,0.046,D,21,46,78,Other,Smoker,Single,No,Level,Long Term,Main,Term,Continuing,21,0.08,74.27,Standard,EUR
+POL00246,3898.22,175678,0.043,C,26,60,74,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,5,0.112,476.51,Special,INR
+POL00247,2595.76,306821,0.021,C,50,65,68,Other,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,14,0.119,314.65,Special,INR
+POL00248,4877.43,68958,0.039,B,34,45,78,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,8,0.102,24.53,Standard,INR
+POL00249,4869.59,135823,0.015,A,35,49,74,Female,Non-Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,5,0.059,444.33,Special,GBP
+POL00250,3906.81,377189,0.014,D,49,38,64,Other,Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,14,0.074,193.35,Standard,GBP
+POL00251,2028.87,422011,0.05,D,58,35,65,Male,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,22,0.062,67.75,Standard,EUR
+POL00252,1887.15,279824,0.049,D,55,23,68,Male,Non-Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,19,0.071,308.54,Standard,USD
+POL00253,3372.18,305477,0.024,D,51,28,74,Other,Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,21,0.125,433.79,Special,INR
+POL00254,2070.09,50520,0.038,B,23,57,63,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,31,0.069,316,Standard,GBP
+POL00255,3124.28,114700,0.016,D,29,64,68,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,5,0.07,31.04,Standard,USD
+POL00256,4141.17,439685,0.012,C,29,24,67,Male,Smoker,Single,No,Increasing,Long Term,Main,Term,Continuing,13,0.071,332.63,Standard,USD
+POL00257,1672.24,87152,0.031,C,20,27,66,Female,Non-Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,31,0.128,209.72,Standard,EUR
+POL00258,2617.6,160057,0.017,B,48,60,77,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Term,Continuing,27,0.1,310.69,Standard,USD
+POL00259,2886.31,491694,0.003,D,55,62,69,Female,Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,7,0.104,455.06,Standard,GBP
+POL00260,4472.43,309912,0.049,B,59,52,71,Other,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,11,0.111,331.31,Standard,GBP
+POL00261,4702.83,161927,0.034,B,30,23,70,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,16,0.109,257.02,Special,GBP
+POL00262,0,326729,0.043,B,25,31,65,Other,Non-Smoker,Joint,No,Level,Long Term,Main,Endowment,Terminated,15,0.055,25.46,Standard,GBP
+POL00263,3696.75,64291,0.023,B,31,29,70,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,5,0.091,376.09,Special,EUR
+POL00264,4800.67,115891,0.006,C,48,23,68,Female,Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,30,0.08,468.18,Standard,INR
+POL00265,3065.78,366383,0.034,C,20,26,78,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,12,0.081,226.8,Special,USD
+POL00266,3306.08,79502,0.001,B,22,37,78,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,3,0.13,100.53,Special,EUR
+POL00267,2345.32,329813,0.008,C,25,22,61,Female,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,10,0.146,107.92,Special,EUR
+POL00268,2389.3,471797,0.045,A,47,31,62,Female,Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,9,0.094,233.22,Special,USD
+POL00269,1080.1,89553,0.008,D,21,55,74,Male,Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,26,0.085,453.11,Standard,EUR
+POL00270,3011.25,487762,0.013,A,27,59,72,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,8,0.129,329.99,Special,INR
+POL00271,4484.17,61705,0.012,D,50,54,60,Male,Non-Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,13,0.149,318.52,Standard,INR
+POL00272,1025.2,376353,0.016,C,53,54,76,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Term,Continuing,13,0.078,305.24,Standard,GBP
+POL00273,1288.23,254168,0.011,B,57,64,69,Other,Non-Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,9,0.11,156.29,Standard,EUR
+POL00274,1656.84,304782,0.002,A,55,54,73,Female,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,31,0.15,480.13,Standard,EUR
+POL00275,4081.34,442729,0.045,D,26,48,70,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,29,0.102,52.04,Standard,INR
+POL00276,3940.74,299553,0.048,C,45,29,62,Other,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,16,0.088,180.88,Standard,INR
+POL00277,4887.5,381943,0.047,B,39,57,74,Female,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,6,0.122,311.42,Standard,GBP
+POL00278,2865.89,330408,0.023,D,35,26,62,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Continuing,30,0.148,33.95,Standard,INR
+POL00279,1297.54,189963,0.022,C,43,24,74,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Continuing,6,0.127,173.26,Standard,EUR
+POL00280,3595.27,226488,0.003,A,20,35,76,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,20,0.111,426.07,Standard,INR
+POL00281,4034.37,140939,0.018,B,25,51,76,Male,Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,10,0.056,382.53,Special,EUR
+POL00282,1548.42,433751,0.045,B,27,30,62,Male,Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,11,0.077,398.65,Special,USD
+POL00283,2586.34,323074,0.019,C,22,39,70,Female,Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,15,0.095,420.66,Standard,INR
+POL00284,1899.94,390244,0.025,B,25,28,70,Male,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,14,0.119,73.32,Standard,INR
+POL00285,1231.83,303133,0.026,D,35,23,80,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,4,0.108,484,Standard,EUR
+POL00286,2583.57,174155,0.009,C,53,27,66,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,31,0.121,86.64,Standard,INR
+POL00287,1259.71,381001,0.027,C,33,61,73,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,2,0.06,251.3,Special,EUR
+POL00288,1903.55,297176,0.006,C,25,23,69,Female,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,13,0.144,355,Standard,EUR
+POL00289,1218.52,205757,0.031,B,42,24,77,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,18,0.063,281.82,Special,GBP
+POL00290,3681.13,281735,0.027,D,40,33,77,Female,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,17,0.113,412.14,Special,EUR
+POL00291,0,417096,0.011,C,20,59,78,Male,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Terminated,19,0.078,173.07,Standard,GBP
+POL00292,1402.89,286823,0.045,B,41,32,67,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,20,0.08,193.6,Special,GBP
+POL00293,1287.62,141368,0.01,D,23,27,71,Other,Smoker,Joint,No,Increasing,Short Term,Rider,ULIP,Continuing,30,0.12,119.5,Standard,EUR
+POL00294,4521.76,431648,0.021,C,46,33,66,Other,Non-Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,25,0.082,316.59,Special,INR
+POL00295,4016.99,216722,0.044,C,49,27,66,Female,Non-Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,10,0.082,4.53,Standard,EUR
+POL00296,4266.42,186496,0.012,D,49,26,72,Male,Non-Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,3,0.104,261.04,Special,INR
+POL00297,4928.56,396769,0.015,A,21,28,79,Female,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,29,0.068,57.11,Special,USD
+POL00298,1414.4,380052,0.044,D,39,50,68,Female,Non-Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,29,0.138,50.58,Standard,INR
+POL00299,1396.17,427508,0.031,A,39,52,80,Male,Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,13,0.057,369,Standard,INR
+POL00300,4195.33,306072,0.043,D,20,56,80,Other,Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,4,0.089,63.57,Standard,GBP
+POL00301,4138.3,61826,0.024,B,51,24,68,Other,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,24,0.054,475.09,Standard,INR
+POL00302,1037.72,268757,0.045,B,29,61,75,Female,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,2,0.149,438.38,Special,GBP
+POL00303,4116.26,294206,0.008,C,57,34,77,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,29,0.126,41.31,Standard,EUR
+POL00304,3917.56,426497,0.031,D,33,54,71,Male,Non-Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,25,0.098,193.59,Special,INR
+POL00305,3520.53,377899,0.036,D,20,27,70,Male,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,5,0.129,386.18,Standard,GBP
+POL00306,2923.64,299801,0.01,B,58,32,60,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Continuing,13,0.073,131.92,Standard,INR
+POL00307,1626.55,83036,0.028,D,30,23,80,Female,Non-Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,3,0.06,166.45,Standard,USD
+POL00308,0,111426,0.034,D,58,48,62,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Terminated,30,0.147,208.2,Special,GBP
+POL00309,2809.83,358074,0.046,D,48,53,73,Other,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,2,0.065,392.79,Standard,GBP
+POL00310,2969.17,94830,0.016,B,46,47,79,Other,Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Continuing,6,0.068,0.01,Standard,GBP
+POL00311,2558.35,141704,0.027,B,24,51,77,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,10,0.103,479.69,Standard,GBP
+POL00312,2858.66,214691,0,B,41,64,66,Male,Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,3,0.141,23.16,Special,USD
+POL00313,3853.12,430788,0.019,B,59,61,70,Other,Non-Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Continuing,8,0.148,84.33,Standard,USD
+POL00314,1221.21,156593,0.032,B,51,56,78,Other,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,26,0.131,475.61,Standard,INR
+POL00315,2419.13,367195,0.03,C,26,61,65,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,13,0.146,9.36,Special,EUR
+POL00316,4211.25,98424,0.041,C,41,21,75,Female,Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,28,0.078,108.52,Standard,INR
+POL00317,4342.84,400581,0.006,A,55,29,72,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,9,0.086,191.49,Special,EUR
+POL00318,1951,164798,0.033,D,52,55,75,Male,Non-Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,25,0.113,474.02,Special,USD
+POL00319,2415.94,296619,0.01,A,53,59,73,Male,Non-Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,3,0.073,377.6,Standard,EUR
+POL00320,4427.54,65256,0.029,A,20,44,74,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,31,0.132,68.08,Standard,USD
+POL00321,4415.05,412749,0.035,C,56,64,66,Other,Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,7,0.147,414.49,Standard,EUR
+POL00322,2183.58,201989,0.026,A,30,56,60,Other,Smoker,Joint,Yes,Level,Long Term,Main,ULIP,Continuing,24,0.111,389.66,Special,EUR
+POL00323,1588.19,462329,0.018,C,59,36,75,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,3,0.143,343.6,Standard,INR
+POL00324,3815.97,210698,0.035,A,60,33,66,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Term,Continuing,28,0.072,445.38,Special,GBP
+POL00325,1415.23,488914,0.024,A,32,58,61,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,Continuing,14,0.055,223.55,Special,EUR
+POL00326,1134.91,222970,0.012,A,36,37,61,Female,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,25,0.095,157.51,Special,EUR
+POL00327,4997.62,269903,0.023,A,30,42,64,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,26,0.062,499.46,Special,INR
+POL00328,1139.5,270849,0.004,B,29,55,75,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,19,0.071,452.87,Standard,INR
+POL00329,2353.57,55515,0.013,D,33,63,69,Other,Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,10,0.127,415.65,Special,GBP
+POL00330,4660.26,338663,0.028,B,31,24,80,Female,Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,27,0.098,305.09,Special,GBP
+POL00331,3468.94,280659,0.001,B,51,65,71,Female,Non-Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,11,0.094,175.3,Standard,INR
+POL00332,2145.14,194158,0.011,B,28,23,80,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,28,0.117,423.3,Special,INR
+POL00333,3951.19,311645,0.032,D,23,57,77,Other,Non-Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,5,0.051,284.86,Standard,INR
+POL00334,4336.22,327805,0.036,A,46,55,68,Female,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,6,0.082,428.97,Standard,EUR
+POL00335,2257.08,247224,0.039,C,55,23,79,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,15,0.105,394.9,Standard,USD
+POL00336,2970.27,126666,0.004,C,60,32,80,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,29,0.105,280.61,Special,INR
+POL00337,3789.5,371786,0.005,C,31,37,65,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,Continuing,11,0.145,338,Standard,EUR
+POL00338,3565.85,386504,0.047,B,28,52,71,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,26,0.104,161.48,Standard,INR
+POL00339,3575.69,429762,0.047,D,35,56,60,Other,Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,30,0.101,245.02,Special,INR
+POL00340,4911.41,290642,0.046,D,47,42,75,Other,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,19,0.061,28.29,Standard,USD
+POL00341,0,186006,0.032,C,47,31,67,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Terminated,3,0.131,287.89,Special,GBP
+POL00342,0,255433,0.008,B,32,41,77,Male,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,Terminated,24,0.126,75.9,Standard,EUR
+POL00343,3104.12,222954,0.046,D,26,30,74,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,11,0.07,342.04,Special,INR
+POL00344,1900.29,162071,0.046,A,22,27,74,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,15,0.099,301.94,Special,EUR
+POL00345,2945.65,344582,0.008,A,42,54,68,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,23,0.096,138.77,Special,EUR
+POL00346,2480.86,479896,0.004,B,31,33,63,Other,Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,14,0.101,391.06,Special,INR
+POL00347,4933.4,180987,0.028,B,43,46,79,Female,Non-Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,26,0.133,199.93,Special,INR
+POL00348,2553.28,342585,0.018,B,39,21,74,Other,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,17,0.091,62.2,Special,GBP
+POL00349,1916.98,291362,0.023,A,35,62,66,Female,Smoker,Joint,No,Increasing,Short Term,Rider,ULIP,Continuing,27,0.094,393.45,Special,INR
+POL00350,3493.19,318853,0.023,C,52,41,73,Male,Smoker,Joint,No,Level,Long Term,Main,Endowment,Continuing,24,0.146,238.58,Special,INR
+POL00351,1546.16,61204,0.039,D,20,64,67,Other,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,23,0.097,168.27,Special,USD
+POL00352,4869.88,52179,0.041,A,56,33,69,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,6,0.142,57.5,Special,EUR
+POL00353,3060.29,109120,0.014,C,35,63,68,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,28,0.107,368.44,Special,USD
+POL00354,1652.28,61168,0.036,A,54,35,66,Other,Smoker,Joint,No,Increasing,Short Term,Rider,Whole Life,Continuing,9,0.123,420.78,Standard,INR
+POL00355,3487.61,91458,0.025,D,34,38,63,Other,Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,9,0.066,66.33,Special,GBP
+POL00356,4943.82,264001,0.003,A,44,61,69,Male,Smoker,Joint,No,Level,Short Term,Main,ULIP,Continuing,29,0.119,278.03,Special,GBP
+POL00357,3675.09,138496,0.002,C,59,44,60,Other,Smoker,Joint,No,Level,Long Term,Rider,Whole Life,Continuing,4,0.071,409.24,Special,USD
+POL00358,2675.66,416603,0.012,D,36,36,60,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,ULIP,Continuing,4,0.105,115.64,Standard,GBP
+POL00359,2293.38,159827,0.011,B,41,46,71,Other,Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,25,0.083,448.89,Special,INR
+POL00360,0,269963,0.021,D,56,46,73,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Term,Terminated,31,0.1,376.21,Standard,INR
+POL00361,1575.27,341997,0.027,A,49,40,80,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,27,0.066,162.19,Special,USD
+POL00362,1771.26,121422,0.036,D,60,33,61,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,27,0.113,170.22,Special,GBP
+POL00363,4586.95,426640,0.012,C,32,28,71,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,22,0.137,28.29,Special,EUR
+POL00364,2232.48,246468,0.045,C,56,29,66,Female,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,26,0.134,218.88,Special,EUR
+POL00365,2453.2,155073,0.024,D,20,61,80,Other,Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,31,0.069,309.76,Special,EUR
+POL00366,4135.79,184485,0.013,B,31,27,60,Male,Smoker,Joint,No,Increasing,Short Term,Rider,Endowment,Continuing,25,0.115,128.94,Standard,USD
+POL00367,1773.51,121740,0.016,D,50,54,78,Female,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,24,0.095,298.34,Special,USD
+POL00368,1071.06,313505,0.033,B,49,58,62,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Continuing,23,0.074,458.55,Special,GBP
+POL00369,2626.43,116950,0.036,C,53,21,63,Female,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,17,0.141,29.99,Standard,GBP
+POL00370,2932.67,130577,0.029,D,24,64,71,Male,Non-Smoker,Single,No,Level,Long Term,Rider,Whole Life,Continuing,29,0.083,462.26,Standard,INR
+POL00371,2687.38,202650,0.044,D,22,57,76,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,4,0.083,362.45,Standard,GBP
+POL00372,2371.24,132756,0.02,C,24,28,80,Male,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,16,0.102,415.23,Special,USD
+POL00373,4465.93,232494,0.01,A,32,44,70,Female,Smoker,Single,No,Level,Long Term,Rider,Endowment,Continuing,30,0.073,10.49,Special,GBP
+POL00374,2820.43,326102,0.024,B,34,40,76,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,29,0.149,137.46,Standard,EUR
+POL00375,3135.06,358552,0.019,A,25,29,78,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,ULIP,Continuing,20,0.109,110.91,Special,GBP
+POL00376,4855.37,420587,0.012,A,20,21,75,Female,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,18,0.064,82.69,Special,INR
+POL00377,4098.37,218292,0.046,C,29,54,66,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,4,0.101,475.19,Special,GBP
+POL00378,1835.51,478778,0.023,D,44,22,77,Male,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,20,0.107,97.62,Standard,EUR
+POL00379,2235.15,58474,0.001,A,39,48,68,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,2,0.108,391.43,Standard,INR
+POL00380,0,325569,0.047,B,37,30,79,Male,Smoker,Joint,No,Increasing,Short Term,Rider,Whole Life,Terminated,10,0.082,472.43,Standard,USD
+POL00381,3339.6,258608,0.019,B,34,50,61,Female,Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,19,0.067,271.31,Special,USD
+POL00382,4043.29,209628,0,C,45,21,80,Male,Non-Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,28,0.07,301.61,Special,INR
+POL00383,2490.84,447090,0.049,B,58,36,63,Female,Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,25,0.075,1.13,Standard,GBP
+POL00384,4076.78,84111,0.019,C,22,41,64,Female,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,21,0.095,389.8,Special,EUR
+POL00385,3150.71,447481,0.049,C,43,28,74,Male,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,13,0.123,266.75,Standard,USD
+POL00386,4655.98,134700,0.007,D,38,28,78,Male,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,25,0.053,346.93,Standard,EUR
+POL00387,1741.19,146780,0.028,D,56,54,73,Other,Non-Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Continuing,19,0.05,71.32,Special,USD
+POL00388,2128.87,441290,0.04,D,38,52,69,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,2,0.08,368.34,Standard,EUR
+POL00389,1379.85,77377,0.01,B,26,27,80,Other,Non-Smoker,Single,Yes,Level,Long Term,Rider,ULIP,Continuing,17,0.139,258.28,Special,INR
+POL00390,1841.95,155705,0.036,C,47,59,66,Other,Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,31,0.092,261.86,Special,USD
+POL00391,4908.4,496857,0.028,D,35,36,66,Male,Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,16,0.111,275.31,Special,EUR
+POL00392,2185.21,355189,0.001,C,24,32,77,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,10,0.059,186.27,Standard,USD
+POL00393,3903.93,245969,0.013,D,43,31,60,Other,Non-Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,11,0.057,337.79,Special,GBP
+POL00394,4142.75,219789,0.024,B,52,21,60,Other,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,16,0.119,130.95,Standard,GBP
+POL00395,1421.67,257533,0.046,D,55,21,63,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,25,0.053,190.29,Special,GBP
+POL00396,1958.38,410833,0.05,B,46,33,63,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,30,0.145,431.12,Special,EUR
+POL00397,2082.18,348335,0.01,C,39,50,80,Female,Smoker,Joint,No,Increasing,Short Term,Main,Term,Continuing,3,0.067,219.67,Special,USD
+POL00398,1404.23,259702,0.027,D,28,21,71,Female,Smoker,Joint,No,Increasing,Short Term,Rider,Whole Life,Continuing,14,0.147,473.68,Special,USD
+POL00399,1471.66,73967,0.032,C,24,25,61,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,19,0.136,156.49,Standard,EUR
+POL00400,4964.95,156739,0.045,B,26,54,62,Female,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,21,0.122,145.08,Standard,EUR
+POL00401,4944.22,154958,0.037,A,52,40,79,Other,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,22,0.115,275,Standard,EUR
+POL00402,1548.27,153794,0.03,A,21,21,77,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,12,0.096,144.95,Standard,GBP
+POL00403,4621.24,77777,0.011,C,20,24,76,Other,Smoker,Single,No,Increasing,Long Term,Main,Whole Life,Continuing,29,0.09,128.68,Special,USD
+POL00404,3305.21,273703,0.046,C,50,42,68,Female,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,7,0.12,250.05,Standard,GBP
+POL00405,2581.8,159856,0.04,D,23,24,66,Male,Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,27,0.109,363.71,Standard,GBP
+POL00406,2799.21,391183,0.016,A,55,42,76,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,21,0.058,216.74,Standard,INR
+POL00407,3826.01,296286,0.011,D,53,45,72,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,21,0.14,84.8,Standard,INR
+POL00408,1330.01,476630,0.033,B,35,40,71,Female,Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,5,0.072,137.4,Standard,USD
+POL00409,2357.25,88777,0.037,D,35,56,69,Other,Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,6,0.095,47.56,Special,GBP
+POL00410,3723.15,476547,0.023,B,59,30,69,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,19,0.07,253.47,Special,EUR
+POL00411,2267.8,375079,0.043,D,54,21,64,Male,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,29,0.092,232.79,Special,INR
+POL00412,4326.27,464902,0.034,C,39,46,80,Other,Non-Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,7,0.054,463.57,Standard,GBP
+POL00413,1860.69,326228,0.008,B,36,44,71,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,19,0.086,161.92,Special,USD
+POL00414,2991.8,122435,0.001,C,35,41,76,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Continuing,2,0.115,313.52,Special,INR
+POL00415,2104.2,132323,0.043,A,53,56,77,Male,Smoker,Single,No,Increasing,Short Term,Rider,Whole Life,Continuing,31,0.092,336.75,Special,GBP
+POL00416,1768.09,378583,0.005,B,27,60,63,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,10,0.063,369.28,Special,USD
+POL00417,4802.49,315287,0.016,D,24,46,69,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,22,0.052,31.59,Special,USD
+POL00418,2286.9,190617,0.022,D,31,36,71,Other,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,7,0.13,29.49,Standard,GBP
+POL00419,2913.83,397757,0.031,B,50,22,67,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,26,0.094,301.54,Special,EUR
+POL00420,1111.97,201334,0.017,D,42,52,68,Male,Non-Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,19,0.084,416.2,Standard,EUR
+POL00421,3189.84,435055,0.029,A,21,50,62,Male,Smoker,Single,No,Level,Long Term,Rider,Endowment,Continuing,8,0.149,418.1,Standard,INR
+POL00422,3576.96,311238,0.041,C,34,46,80,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,17,0.08,142.99,Special,INR
+POL00423,3385.05,237075,0.017,B,56,34,76,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,14,0.095,92.89,Special,INR
+POL00424,2287.75,469658,0.019,C,60,53,79,Other,Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,28,0.13,251.62,Standard,INR
+POL00425,4564.46,258214,0.03,C,34,28,71,Female,Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,10,0.124,390.64,Special,EUR
+POL00426,3505.03,94706,0.025,D,58,51,70,Female,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,5,0.111,261.79,Standard,EUR
+POL00427,2211.62,259452,0.005,A,60,56,74,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,6,0.086,397.95,Special,EUR
+POL00428,2552.82,492838,0.042,D,43,34,76,Female,Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,26,0.107,57.49,Standard,GBP
+POL00429,1641.9,466373,0.022,B,28,63,68,Female,Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,30,0.143,361.21,Standard,EUR
+POL00430,4450.21,245929,0.038,B,30,65,75,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,30,0.071,63.45,Standard,GBP
+POL00431,4812.4,441374,0.04,A,29,49,60,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,7,0.126,68.01,Standard,EUR
+POL00432,3254.58,185159,0.02,A,58,38,69,Female,Non-Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,19,0.108,135.94,Standard,USD
+POL00433,2318.19,409088,0.001,B,47,53,60,Other,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,21,0.097,188.51,Special,USD
+POL00434,4986.47,410230,0.037,D,36,44,66,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,28,0.1,168.04,Standard,GBP
+POL00435,1939.28,224117,0.003,C,56,51,71,Other,Non-Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,17,0.086,313.58,Special,INR
+POL00436,3450.69,221715,0.027,C,54,25,78,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,11,0.101,473.77,Special,GBP
+POL00437,1432.71,340482,0.006,C,37,43,73,Other,Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,8,0.082,37.54,Special,EUR
+POL00438,2948.13,437750,0.034,D,33,54,62,Other,Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,15,0.122,286.9,Special,GBP
+POL00439,1397.78,345485,0.003,B,26,42,64,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,10,0.071,99.34,Special,EUR
+POL00440,1644.66,282347,0.04,B,50,44,71,Male,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,17,0.146,205.51,Standard,USD
+POL00441,2131.97,116952,0.033,C,22,64,60,Female,Non-Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,31,0.121,342.9,Standard,GBP
+POL00442,0,325745,0.012,D,53,46,61,Female,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Terminated,2,0.073,348.09,Standard,USD
+POL00443,3926.83,68885,0.008,A,44,39,73,Male,Smoker,Joint,No,Increasing,Short Term,Rider,ULIP,Continuing,16,0.109,429.26,Special,INR
+POL00444,1662.08,274262,0.003,C,30,41,66,Male,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,7,0.108,61.67,Standard,GBP
+POL00445,4465.87,382779,0.001,A,35,45,74,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,29,0.136,314.1,Special,EUR
+POL00446,3834.3,389255,0.042,C,54,60,76,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,24,0.082,214.26,Special,INR
+POL00447,4041.6,78392,0.013,C,55,58,72,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,11,0.078,154.82,Special,USD
+POL00448,1588.34,249117,0.003,C,26,43,67,Other,Smoker,Single,No,Increasing,Long Term,Main,Whole Life,Continuing,23,0.079,261.99,Standard,GBP
+POL00449,2432.23,275302,0.017,D,29,53,78,Male,Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,4,0.056,131.39,Standard,GBP
+POL00450,3693.33,171609,0.029,D,39,37,60,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,11,0.135,69.5,Standard,INR
+POL00451,3095.29,319461,0.04,B,36,62,62,Other,Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,19,0.052,486.45,Special,USD
+POL00452,2399.21,381127,0.017,D,40,61,64,Female,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,2,0.098,333.32,Standard,EUR
+POL00453,1962.12,371110,0.007,A,33,28,61,Other,Non-Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,11,0.051,183.44,Standard,EUR
+POL00454,1232.77,102422,0.039,D,22,62,66,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,12,0.078,29.79,Standard,GBP
+POL00455,1946.48,308804,0.044,A,33,39,76,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,26,0.128,377.77,Standard,GBP
+POL00456,4560.31,409159,0.049,D,51,22,79,Male,Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,12,0.097,182.61,Standard,GBP
+POL00457,4247.31,154321,0.033,C,56,59,72,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,16,0.1,64.7,Standard,INR
+POL00458,3990.07,376185,0.013,A,49,26,79,Other,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,28,0.055,248.44,Standard,USD
+POL00459,1619.65,427110,0.032,B,54,54,63,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,24,0.126,78.63,Standard,GBP
+POL00460,1498.97,103477,0.023,D,33,59,61,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,14,0.146,388.37,Standard,GBP
+POL00461,4898.9,481528,0.01,B,36,21,63,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,24,0.131,172.2,Standard,EUR
+POL00462,2744.52,386494,0.03,C,30,48,67,Male,Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,9,0.107,424.33,Special,INR
+POL00463,2856.07,414900,0.049,B,20,30,62,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,13,0.077,319.92,Special,USD
+POL00464,1661.19,135463,0.01,A,28,60,68,Other,Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,27,0.148,356.32,Standard,USD
+POL00465,3339.75,61686,0.022,A,46,58,67,Other,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,26,0.145,403.18,Special,USD
+POL00466,2083.11,438702,0.017,D,22,30,66,Other,Non-Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,15,0.056,451.94,Standard,USD
+POL00467,1920.39,463631,0.002,B,41,63,67,Female,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,26,0.148,251.69,Special,EUR
+POL00468,3764.83,111933,0.005,C,60,52,63,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Term,Continuing,8,0.078,333.03,Special,EUR
+POL00469,2131.41,264942,0.021,A,49,35,80,Other,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,23,0.106,340.62,Special,USD
+POL00470,4241.59,258333,0.002,A,28,33,78,Male,Smoker,Joint,No,Level,Long Term,Main,Whole Life,Continuing,11,0.059,441.79,Standard,INR
+POL00471,1375.67,365080,0.001,A,34,62,70,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,6,0.091,230.35,Standard,INR
+POL00472,4288.12,79509,0.009,D,54,39,70,Other,Non-Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,9,0.083,356.12,Special,EUR
+POL00473,2709.71,379868,0.019,D,27,51,65,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,12,0.123,317.22,Standard,GBP
+POL00474,4023.55,228169,0.029,A,20,22,63,Female,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,25,0.11,66.93,Standard,INR
+POL00475,3649.54,257670,0.017,D,45,55,60,Male,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,5,0.132,37.49,Special,USD
+POL00476,2778.11,376385,0.025,A,20,43,78,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,17,0.064,377.88,Special,USD
+POL00477,3508.58,261501,0.038,A,58,37,62,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,22,0.141,261.16,Standard,EUR
+POL00478,1001.86,499786,0.008,C,48,29,70,Male,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,29,0.124,8.89,Standard,INR
+POL00479,1868.97,430671,0.042,A,41,24,62,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,6,0.127,209.09,Special,INR
+POL00480,3819.49,422693,0.016,B,42,52,77,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,11,0.093,441.05,Standard,EUR
+POL00481,1860.67,392740,0.012,D,50,57,67,Female,Non-Smoker,Single,Yes,Level,Long Term,Rider,Endowment,Continuing,3,0.095,213.52,Special,INR
+POL00482,4255.73,100448,0.015,C,30,38,75,Female,Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,27,0.077,235.93,Standard,INR
+POL00483,2231.06,427540,0.039,C,49,49,63,Female,Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,26,0.114,133.55,Special,INR
+POL00484,3750.97,416233,0.013,C,56,34,61,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,22,0.063,268.67,Special,INR
+POL00485,4730.72,496135,0.046,D,50,32,77,Male,Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,28,0.084,479,Standard,EUR
+POL00486,1463.12,71742,0.007,B,49,38,67,Other,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,9,0.13,90.79,Special,EUR
+POL00487,1510.82,386055,0.011,D,43,21,80,Female,Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,24,0.068,100.26,Special,USD
+POL00488,3712.9,238691,0.031,B,45,64,71,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,25,0.064,463.26,Special,EUR
+POL00489,2715.79,311965,0.013,A,45,61,76,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,27,0.057,194.76,Special,INR
+POL00490,4337.6,423830,0.035,C,59,59,65,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Continuing,31,0.11,474.81,Special,GBP
+POL00491,4885.75,56089,0.037,B,22,27,74,Male,Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,13,0.058,100.61,Standard,USD
+POL00492,1281.96,55185,0.013,A,39,53,80,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Whole Life,Continuing,8,0.085,226.25,Special,GBP
+POL00493,2839.14,498401,0.029,A,59,33,80,Female,Smoker,Single,No,Increasing,Long Term,Main,Term,Continuing,20,0.085,195.86,Special,USD
+POL00494,3806.34,394560,0.046,C,40,38,79,Other,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,6,0.1,483.73,Special,EUR
+POL00495,1347.76,191598,0.035,D,33,26,72,Other,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,24,0.121,340.83,Standard,GBP
+POL00496,4971.78,415405,0.042,B,35,57,65,Other,Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,6,0.116,322.55,Standard,EUR
+POL00497,2012.4,496049,0.046,B,46,41,69,Female,Non-Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,8,0.134,6.51,Standard,INR
+POL00498,1198.15,140342,0.015,A,35,38,72,Female,Non-Smoker,Single,No,Increasing,Short Term,Rider,Whole Life,Continuing,6,0.131,280.54,Standard,INR
+POL00499,3745.3,340717,0.033,A,54,41,75,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,29,0.105,213.58,Standard,EUR
+POL00500,4147.71,246898,0.007,C,33,28,62,Other,Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,24,0.112,496.88,Special,INR
+POL00501,2414.42,472113,0.043,C,45,47,78,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,24,0.091,192.16,Standard,EUR
+POL00502,2465.77,494601,0.033,A,36,57,68,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,19,0.063,52.75,Standard,EUR
+POL00503,2148.4,255344,0.037,B,50,34,74,Female,Non-Smoker,Single,No,Level,Short Term,Rider,Whole Life,Continuing,24,0.054,63.16,Special,USD
+POL00504,1319.89,153777,0.016,D,36,40,65,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,12,0.093,264.2,Standard,INR
+POL00505,0,362970,0.033,D,39,48,68,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Terminated,22,0.09,217.67,Standard,INR
+POL00506,1712.06,300485,0.023,A,21,46,75,Other,Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,8,0.09,14.47,Standard,USD
+POL00507,3144.21,313120,0.033,D,35,45,79,Other,Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,16,0.069,302.78,Special,EUR
+POL00508,3015.79,245134,0.039,B,33,34,78,Female,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,14,0.056,111.58,Special,EUR
+POL00509,4780.14,241779,0.045,D,56,38,63,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,29,0.059,300.67,Special,USD
+POL00510,2365.29,318584,0.026,A,51,58,72,Other,Non-Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,6,0.138,68.11,Standard,INR
+POL00511,2858.86,253439,0.008,C,60,64,66,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,19,0.064,153.64,Special,USD
+POL00512,1330.12,480474,0.013,C,43,42,75,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,22,0.102,213.37,Standard,USD
+POL00513,4440.43,429994,0.007,D,48,21,70,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,22,0.084,494.83,Special,EUR
+POL00514,2582.64,150246,0.012,D,40,33,77,Male,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,19,0.063,37.1,Standard,USD
+POL00515,3943.6,239077,0.036,B,46,59,73,Female,Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,14,0.086,185.64,Standard,INR
+POL00516,1686.97,238992,0.031,B,48,55,63,Female,Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,31,0.111,35.36,Standard,USD
+POL00517,2819.05,59356,0.023,C,46,21,74,Female,Smoker,Joint,Yes,Increasing,Short Term,Rider,Term,Continuing,31,0.138,27.36,Special,EUR
+POL00518,4080.82,221202,0.032,A,47,34,75,Other,Smoker,Joint,No,Level,Long Term,Main,Whole Life,Continuing,2,0.074,391.34,Special,USD
+POL00519,1250.6,240057,0.026,B,29,38,69,Other,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,7,0.149,145.43,Standard,EUR
+POL00520,4260.33,136142,0.017,B,48,21,70,Male,Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,22,0.071,105.99,Special,USD
+POL00521,2204.57,367398,0.039,B,37,24,79,Female,Non-Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,27,0.119,415.72,Special,USD
+POL00522,2458.68,56084,0.032,A,53,31,79,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,23,0.104,253.88,Special,USD
+POL00523,2248.45,379041,0.039,B,23,33,78,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,30,0.096,112.94,Standard,USD
+POL00524,1149.48,244726,0.009,A,60,54,60,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,6,0.064,302.39,Special,USD
+POL00525,3075.22,379058,0.02,C,21,51,64,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,ULIP,Continuing,7,0.146,236.51,Special,INR
+POL00526,3716.05,56274,0.048,C,23,28,75,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,23,0.101,159.77,Standard,GBP
+POL00527,4612.93,70391,0.019,D,31,51,61,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,12,0.122,172.63,Special,GBP
+POL00528,1102.11,238286,0.004,C,48,40,79,Other,Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,2,0.081,52.98,Standard,EUR
+POL00529,4956.31,339728,0.026,B,30,25,69,Female,Non-Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,11,0.11,123.27,Standard,USD
+POL00530,2211.55,148907,0.047,B,58,64,64,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,20,0.081,102.27,Standard,EUR
+POL00531,4756.55,425049,0.043,D,46,26,75,Male,Non-Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,11,0.139,453.23,Standard,INR
+POL00532,3750.43,362645,0.027,C,49,57,71,Male,Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,16,0.052,38,Special,GBP
+POL00533,2788.15,454606,0.033,C,23,24,74,Male,Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,2,0.056,15.95,Special,GBP
+POL00534,4265.91,236408,0.025,D,29,36,60,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Continuing,6,0.094,422.27,Standard,INR
+POL00535,1158,234952,0.046,D,42,41,71,Male,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,12,0.115,245.84,Special,GBP
+POL00536,3956.13,162507,0.005,D,21,46,67,Other,Smoker,Joint,No,Level,Long Term,Main,Endowment,Continuing,5,0.07,427.45,Standard,USD
+POL00537,2394.88,218195,0.025,A,51,46,69,Female,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,11,0.1,216.05,Standard,USD
+POL00538,0,154352,0.039,B,25,54,69,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Terminated,17,0.094,59.57,Standard,USD
+POL00539,3142.17,469221,0.043,D,36,35,66,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Endowment,Continuing,14,0.132,462.07,Standard,INR
+POL00540,2098.18,264355,0.045,D,59,34,80,Female,Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,13,0.075,2.74,Special,INR
+POL00541,0,71449,0.041,B,43,32,69,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Term,Terminated,19,0.071,238.19,Special,INR
+POL00542,1366.58,398089,0.008,C,58,36,79,Male,Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,17,0.148,83.33,Standard,GBP
+POL00543,4328.43,199003,0.036,B,33,64,74,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,20,0.079,424.78,Special,INR
+POL00544,2107.42,298794,0.038,A,30,49,65,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,20,0.097,59.57,Special,INR
+POL00545,4012.44,354349,0.033,C,45,38,64,Female,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,3,0.135,296.73,Standard,GBP
+POL00546,4856.61,174800,0.045,B,43,33,78,Male,Non-Smoker,Joint,No,Increasing,Long Term,Main,Term,Continuing,17,0.059,246.13,Special,USD
+POL00547,1325.87,73785,0.019,D,38,36,66,Female,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,31,0.114,100.76,Special,GBP
+POL00548,4417.46,241591,0.048,D,33,41,71,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,29,0.068,320.01,Special,GBP
+POL00549,4208.95,324553,0.023,A,29,21,74,Male,Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,14,0.072,324.01,Special,EUR
+POL00550,2540.69,489221,0.01,A,52,58,63,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,6,0.069,470.61,Standard,GBP
+POL00551,0,486410,0.03,B,42,34,65,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Terminated,4,0.07,67.33,Standard,EUR
+POL00552,1819.75,89818,0.008,B,50,50,64,Female,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,19,0.063,297.89,Standard,GBP
+POL00553,3277.53,274271,0.026,A,41,52,75,Other,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,14,0.072,58.79,Special,USD
+POL00554,4552.22,228060,0.021,A,42,44,68,Other,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,20,0.051,28.69,Special,GBP
+POL00555,3118.86,225649,0.041,C,48,64,80,Male,Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,19,0.113,443.8,Special,USD
+POL00556,3347.83,193325,0.028,C,49,63,77,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Continuing,21,0.1,314.88,Special,INR
+POL00557,3662.94,357159,0.023,A,36,27,63,Male,Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,18,0.128,291.85,Standard,INR
+POL00558,3119.57,178077,0.01,B,28,22,72,Male,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,11,0.071,63.9,Standard,GBP
+POL00559,3039.37,225543,0.024,C,58,25,75,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,2,0.06,28.27,Special,USD
+POL00560,1064.64,495576,0.012,B,23,48,72,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,24,0.08,293.47,Special,INR
+POL00561,1190.84,406403,0.016,C,26,39,62,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,14,0.123,135.12,Special,EUR
+POL00562,4717.4,190582,0.043,A,21,34,65,Other,Smoker,Single,No,Increasing,Long Term,Rider,Endowment,Continuing,19,0.107,274.58,Special,GBP
+POL00563,4077.14,417703,0.022,D,45,54,76,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,6,0.115,364.27,Special,USD
+POL00564,1804.32,149409,0.022,B,39,62,78,Other,Non-Smoker,Joint,No,Level,Long Term,Rider,Whole Life,Continuing,4,0.098,109.01,Standard,USD
+POL00565,3601.05,275483,0.024,C,35,46,65,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,23,0.109,304.83,Standard,GBP
+POL00566,3615.07,125138,0.042,C,51,29,69,Male,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,14,0.123,280.65,Special,INR
+POL00567,2581.02,103847,0.001,D,58,50,79,Female,Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,30,0.108,164.16,Standard,INR
+POL00568,4249.22,453924,0.015,B,53,47,80,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Continuing,14,0.118,383.1,Special,INR
+POL00569,3188.09,92172,0.004,C,32,36,67,Male,Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,7,0.076,85.95,Standard,EUR
+POL00570,4540.53,439276,0.041,B,58,21,67,Other,Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,31,0.135,412.28,Special,USD
+POL00571,3213.26,174466,0.024,C,55,33,62,Male,Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,3,0.052,197.22,Special,EUR
+POL00572,4624.19,62278,0.027,B,54,59,69,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,12,0.11,425.74,Special,EUR
+POL00573,3349.85,404323,0.02,D,43,21,77,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,30,0.075,408.88,Special,INR
+POL00574,2693.85,211397,0.023,D,23,32,79,Other,Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,21,0.1,130.32,Special,INR
+POL00575,4798.34,61296,0.006,A,46,37,77,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,27,0.057,142.71,Special,USD
+POL00576,3836.15,385742,0.002,A,35,44,64,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,19,0.119,8.43,Special,EUR
+POL00577,2653.22,63332,0.001,C,27,59,74,Male,Non-Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,31,0.103,415.83,Standard,GBP
+POL00578,1073.46,245239,0.004,C,22,56,74,Other,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,12,0.094,397.27,Special,GBP
+POL00579,0,165482,0.018,D,36,23,74,Other,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Terminated,31,0.054,371.61,Standard,USD
+POL00580,2960.25,274107,0.038,B,40,44,61,Male,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,4,0.137,242.59,Standard,USD
+POL00581,4514.7,344010,0.037,B,49,59,64,Male,Non-Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,6,0.109,198.71,Standard,USD
+POL00582,4251.41,87646,0.005,B,29,27,76,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,26,0.086,322.23,Special,USD
+POL00583,4416.4,131213,0.048,D,56,61,65,Other,Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,28,0.149,17.16,Special,EUR
+POL00584,0,97008,0.007,B,53,28,78,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Terminated,17,0.149,101.34,Standard,GBP
+POL00585,4495.8,415577,0.024,B,29,38,64,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,31,0.138,102.28,Standard,GBP
+POL00586,1605.35,332376,0.028,A,23,26,63,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,14,0.114,256.13,Special,EUR
+POL00587,2127.25,333758,0.047,D,43,46,73,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,21,0.134,371.54,Standard,GBP
+POL00588,3666.82,225900,0.041,A,39,51,74,Other,Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,26,0.075,186.41,Special,USD
+POL00589,0,244514,0.027,C,21,21,71,Other,Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Terminated,18,0.092,482.66,Standard,GBP
+POL00590,3330.96,206885,0.019,D,55,33,80,Female,Non-Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,13,0.119,164.34,Special,USD
+POL00591,3106.36,407101,0.027,C,52,26,77,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,25,0.075,398.54,Special,INR
+POL00592,1243.13,449121,0.04,B,33,30,65,Female,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,14,0.065,444.63,Standard,EUR
+POL00593,4876.16,343007,0.031,B,42,65,65,Male,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,25,0.058,80.92,Special,USD
+POL00594,1480.95,316788,0.005,D,25,56,75,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Endowment,Continuing,26,0.098,189.4,Standard,GBP
+POL00595,1353.45,197520,0.01,C,42,56,74,Female,Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,31,0.123,296.64,Special,USD
+POL00596,4523.06,84060,0.042,A,21,48,75,Male,Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,23,0.144,86.84,Special,INR
+POL00597,3033.48,316124,0.024,C,55,40,61,Female,Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,26,0.128,173.94,Special,USD
+POL00598,2349.98,130252,0.039,B,51,47,69,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,7,0.142,176.48,Standard,USD
+POL00599,4577.34,383608,0.041,D,36,44,78,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,Continuing,9,0.13,143.39,Standard,GBP
+POL00600,1127.89,182244,0.015,D,46,46,67,Female,Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,9,0.064,63.96,Special,EUR
+POL00601,1948.92,337634,0.011,A,40,21,74,Other,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,20,0.076,68.17,Special,USD
+POL00602,3745.96,106170,0.031,C,42,25,64,Other,Non-Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,20,0.091,358.28,Standard,GBP
+POL00603,1903.27,164870,0.019,B,35,37,62,Female,Non-Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,6,0.086,110.85,Standard,INR
+POL00604,2273.98,419259,0.044,B,27,54,70,Female,Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,2,0.138,216.97,Standard,INR
+POL00605,0,411701,0.006,C,21,26,63,Female,Smoker,Single,No,Level,Long Term,Main,ULIP,Terminated,3,0.057,399.94,Special,INR
+POL00606,4205.72,70626,0.008,D,36,40,66,Other,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,28,0.115,454.49,Standard,USD
+POL00607,1585.13,443989,0.032,A,54,57,73,Female,Smoker,Single,No,Level,Long Term,Main,Term,Continuing,15,0.099,485,Special,USD
+POL00608,4290.87,107604,0.009,C,21,37,69,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,15,0.05,355.11,Special,GBP
+POL00609,2323.99,323974,0.033,A,52,38,79,Female,Non-Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,12,0.068,369.98,Standard,GBP
+POL00610,2496.68,261305,0.026,B,29,33,74,Male,Non-Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,20,0.057,58.59,Special,USD
+POL00611,3518.98,300781,0.037,A,38,49,62,Other,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,27,0.058,60,Special,EUR
+POL00612,1386.53,378677,0.017,A,49,56,74,Other,Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,11,0.128,52.75,Standard,INR
+POL00613,1087.97,261436,0.006,D,46,43,63,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,5,0.062,119.88,Special,USD
+POL00614,4972.18,494875,0.02,D,52,22,61,Female,Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Continuing,15,0.06,90.79,Special,GBP
+POL00615,3335.76,493101,0.027,A,37,46,80,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,5,0.095,491.26,Special,INR
+POL00616,0,226978,0.037,D,23,63,73,Female,Smoker,Joint,No,Level,Short Term,Main,Whole Life,Terminated,13,0.077,80.9,Standard,GBP
+POL00617,4567.58,323981,0.009,D,42,32,60,Female,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,14,0.109,160.95,Standard,EUR
+POL00618,4019.46,205468,0.029,A,21,26,77,Other,Non-Smoker,Joint,No,Level,Long Term,Main,ULIP,Continuing,24,0.071,50.29,Standard,GBP
+POL00619,4916.81,246701,0.025,A,51,21,64,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,10,0.131,107.79,Special,USD
+POL00620,1176.59,153109,0.047,B,51,57,60,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,25,0.144,320.38,Standard,INR
+POL00621,4613.6,52733,0.046,D,20,49,61,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,20,0.052,161.58,Special,INR
+POL00622,4462,60745,0.008,D,51,60,70,Male,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,6,0.074,371.12,Special,USD
+POL00623,4101.63,76441,0.015,D,20,42,63,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,28,0.144,495.81,Special,EUR
+POL00624,2507.27,394059,0.035,C,59,57,70,Male,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,12,0.122,366.92,Special,INR
+POL00625,0,261070,0.038,B,38,56,72,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Terminated,30,0.068,319.51,Special,USD
+POL00626,2457.64,432874,0.025,B,59,60,65,Female,Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,19,0.062,361.88,Standard,EUR
+POL00627,2095.01,311774,0.011,D,47,35,64,Other,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,8,0.113,193.09,Standard,INR
+POL00628,4401.87,134100,0.008,D,49,57,75,Other,Non-Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,9,0.094,156.07,Special,USD
+POL00629,2449.61,324077,0.016,B,42,56,73,Other,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,17,0.134,430.96,Standard,EUR
+POL00630,2217.91,452004,0.002,A,52,39,62,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Term,Continuing,30,0.093,495.36,Special,EUR
+POL00631,4036.54,407445,0.033,A,29,21,78,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,29,0.069,40.75,Special,USD
+POL00632,4379.34,276842,0.037,D,26,45,77,Female,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,15,0.133,248.48,Special,USD
+POL00633,2831.69,240363,0.012,C,57,35,73,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,12,0.067,226.56,Special,INR
+POL00634,3918.53,344472,0.023,B,42,36,79,Other,Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,6,0.059,381.24,Standard,EUR
+POL00635,1416.31,449482,0.002,D,41,37,61,Female,Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,11,0.109,379.22,Special,INR
+POL00636,1879.93,451407,0.005,C,29,61,80,Other,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,5,0.106,154.92,Standard,INR
+POL00637,4815.8,130276,0.045,C,49,49,68,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,9,0.062,65.59,Special,EUR
+POL00638,4008.15,165876,0.031,B,40,35,76,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,17,0.115,225.16,Special,INR
+POL00639,4275.82,101047,0.032,A,55,47,73,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,17,0.084,156.85,Standard,USD
+POL00640,2671.11,408722,0.023,A,30,31,79,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,13,0.104,222.99,Special,INR
+POL00641,3375.35,99292,0.014,B,31,43,64,Other,Smoker,Single,Yes,Level,Short Term,Main,Endowment,Continuing,14,0.067,331.85,Standard,INR
+POL00642,4195.29,423082,0.047,B,25,36,62,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,19,0.135,55.21,Special,INR
+POL00643,4553.63,396971,0.001,C,24,31,63,Female,Smoker,Single,No,Level,Long Term,Main,Term,Continuing,31,0.111,41.11,Standard,EUR
+POL00644,0,474660,0.009,A,35,33,77,Male,Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Terminated,10,0.059,284.85,Special,EUR
+POL00645,1361.29,260131,0.049,B,28,40,65,Other,Non-Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,7,0.126,10.77,Standard,EUR
+POL00646,3502.97,472935,0.04,A,47,39,60,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,10,0.107,389,Standard,INR
+POL00647,3982.54,403332,0.05,D,20,47,79,Other,Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,15,0.136,192.81,Special,USD
+POL00648,1341.51,443574,0.013,D,36,44,77,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,6,0.086,56.39,Standard,EUR
+POL00649,2202.07,227508,0.029,B,45,60,64,Female,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,20,0.088,489.56,Standard,USD
+POL00650,3458.25,94865,0.004,C,39,34,74,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,15,0.102,375.06,Special,USD
+POL00651,4011.73,174633,0.04,D,57,53,68,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,10,0.096,106.48,Special,GBP
+POL00652,4668.23,375000,0.044,A,30,53,63,Male,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,23,0.067,337.25,Standard,USD
+POL00653,2903,210337,0.044,C,30,61,79,Male,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,Continuing,8,0.097,41.72,Special,INR
+POL00654,3268.48,222220,0.001,D,39,37,67,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,15,0.064,446.86,Standard,INR
+POL00655,3946.48,64386,0.012,B,58,30,73,Other,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,24,0.098,225.6,Standard,USD
+POL00656,4429.79,284650,0.03,D,33,44,68,Female,Non-Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,2,0.073,80.67,Standard,EUR
+POL00657,4636.59,104485,0.018,B,41,58,68,Male,Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,31,0.092,445.58,Standard,USD
+POL00658,1225.53,448333,0.035,D,43,45,74,Other,Smoker,Joint,No,Level,Short Term,Rider,Endowment,Continuing,19,0.139,431.1,Special,EUR
+POL00659,3011.63,83591,0.002,D,41,31,74,Female,Non-Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,30,0.072,86.66,Standard,EUR
+POL00660,2402.18,402903,0.033,D,25,60,80,Male,Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,23,0.089,498.01,Standard,INR
+POL00661,4382.22,434360,0.012,D,44,38,62,Male,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,26,0.108,365.7,Standard,INR
+POL00662,4225.74,66730,0.014,D,43,36,73,Male,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,12,0.07,117.1,Special,USD
+POL00663,1469.32,173815,0.037,C,45,51,62,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,21,0.077,194.43,Special,USD
+POL00664,3850.75,338931,0.009,A,21,29,62,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,4,0.055,116.89,Standard,EUR
+POL00665,1941.08,403285,0.019,D,39,26,65,Other,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,4,0.099,12.29,Standard,EUR
+POL00666,1299.83,230028,0.034,B,32,36,64,Female,Non-Smoker,Single,Yes,Level,Short Term,Main,Endowment,Continuing,25,0.148,95.38,Special,GBP
+POL00667,4742.58,470886,0.021,A,31,61,73,Other,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Whole Life,Continuing,8,0.096,237.99,Standard,INR
+POL00668,1628.67,225733,0.027,B,53,56,75,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,21,0.108,80.05,Standard,GBP
+POL00669,3588.23,240782,0.023,D,42,64,62,Male,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,18,0.06,316.93,Special,USD
+POL00670,1694.07,178890,0.006,B,41,31,78,Other,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,19,0.052,110.26,Special,EUR
+POL00671,1080.3,325287,0.002,C,25,22,69,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,20,0.138,206.46,Special,USD
+POL00672,3085.26,301466,0.008,B,35,57,78,Other,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,18,0.109,287.2,Special,GBP
+POL00673,1345.11,67985,0.04,C,44,49,72,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,31,0.108,275.21,Standard,INR
+POL00674,2132.01,385377,0.007,D,45,48,65,Other,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,16,0.102,63.67,Special,EUR
+POL00675,2681.74,142919,0.004,C,34,29,75,Female,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,5,0.086,96.42,Standard,INR
+POL00676,3349.11,345423,0.001,D,60,27,66,Other,Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,27,0.107,97.57,Special,EUR
+POL00677,4226.78,285087,0.021,B,53,48,68,Male,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,29,0.12,121.67,Standard,USD
+POL00678,1807.98,335046,0.043,C,34,29,73,Other,Non-Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,3,0.078,9.65,Special,EUR
+POL00679,2837.7,327903,0.017,D,27,33,60,Female,Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,4,0.064,222.86,Standard,INR
+POL00680,0,178203,0.022,A,24,21,79,Male,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Terminated,8,0.129,1.71,Special,INR
+POL00681,3934.99,150713,0.021,A,58,54,79,Other,Non-Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,13,0.147,453.47,Special,USD
+POL00682,3859.02,292559,0.018,D,37,27,62,Female,Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,2,0.099,57.87,Special,GBP
+POL00683,4324.89,498367,0.046,B,49,24,67,Female,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,19,0.119,44.28,Special,GBP
+POL00684,0,198012,0.047,B,36,30,78,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Terminated,31,0.111,281.93,Special,GBP
+POL00685,4810.58,195501,0.014,D,51,61,77,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,3,0.089,107.94,Standard,INR
+POL00686,3202.47,65896,0.036,C,39,23,61,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,7,0.056,120.22,Special,GBP
+POL00687,3089.34,286525,0.011,C,33,59,63,Other,Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,15,0.137,241.32,Special,EUR
+POL00688,1682.79,318563,0.047,C,39,45,80,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,10,0.089,289.35,Standard,GBP
+POL00689,2917.09,383939,0.003,B,21,38,71,Male,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,5,0.107,54.18,Standard,INR
+POL00690,2015.28,478777,0.049,D,57,50,76,Female,Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,5,0.083,263.37,Standard,GBP
+POL00691,1159.12,270330,0.011,B,47,27,76,Male,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,13,0.078,45.18,Standard,USD
+POL00692,3539.2,87479,0.016,A,42,26,74,Other,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,16,0.06,448.97,Special,USD
+POL00693,3158.24,166968,0.006,B,48,36,78,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,5,0.058,193.23,Special,EUR
+POL00694,1560.41,443681,0.029,B,26,22,72,Female,Non-Smoker,Single,No,Level,Short Term,Main,Term,Continuing,24,0.069,296.4,Special,USD
+POL00695,2134.85,433427,0.033,A,42,47,61,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,15,0.098,154.69,Special,INR
+POL00696,3332.12,429307,0.05,B,58,63,60,Other,Non-Smoker,Joint,No,Level,Long Term,Main,Endowment,Continuing,4,0.094,468.89,Special,EUR
+POL00697,1660.1,476107,0.01,B,26,64,64,Female,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,28,0.123,355.17,Special,INR
+POL00698,1385.2,343707,0.041,D,38,65,76,Female,Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,19,0.089,485.14,Standard,GBP
+POL00699,2714.45,269670,0.031,C,41,25,65,Female,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,19,0.113,174.28,Special,GBP
+POL00700,2423.05,134491,0.049,A,50,27,69,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,5,0.102,62.72,Special,USD
+POL00701,4379.73,370865,0.022,A,49,47,74,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,27,0.058,35.08,Standard,USD
+POL00702,2040.53,88281,0.036,A,41,45,73,Other,Smoker,Joint,No,Level,Long Term,Main,Endowment,Continuing,27,0.138,108.16,Special,GBP
+POL00703,1092.58,257540,0.004,D,47,40,65,Other,Non-Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,23,0.116,496.5,Standard,EUR
+POL00704,4449.6,471158,0.032,B,20,62,69,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,7,0.098,420.53,Standard,EUR
+POL00705,2338.35,430382,0.011,C,47,34,80,Male,Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,2,0.079,156.48,Special,USD
+POL00706,3527.16,372284,0.046,D,20,21,66,Female,Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,12,0.107,170.85,Standard,GBP
+POL00707,3185.71,105713,0.041,B,56,28,70,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,7,0.1,495.8,Standard,USD
+POL00708,2505.78,317672,0.043,B,36,58,69,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,24,0.083,123.69,Special,INR
+POL00709,1743.49,495434,0.041,B,20,61,71,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,29,0.139,87.44,Special,INR
+POL00710,2715.76,326934,0.021,A,38,21,73,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,ULIP,Continuing,7,0.102,412.96,Standard,INR
+POL00711,3523.09,172885,0.049,D,21,28,66,Male,Smoker,Single,Yes,Level,Long Term,Main,ULIP,Continuing,22,0.113,352.56,Standard,USD
+POL00712,3083.37,78668,0.025,B,51,39,62,Other,Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,16,0.112,227.12,Special,GBP
+POL00713,3638.49,82536,0.025,D,20,62,74,Female,Non-Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,13,0.12,129.56,Special,GBP
+POL00714,3917.44,443080,0.017,D,50,32,70,Female,Non-Smoker,Single,Yes,Level,Short Term,Rider,Term,Continuing,16,0.083,438.37,Special,EUR
+POL00715,2947.29,213271,0.003,D,28,57,78,Male,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,12,0.07,428.47,Special,USD
+POL00716,2537.83,475530,0.045,D,21,30,61,Female,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,13,0.075,152.65,Standard,EUR
+POL00717,1027.33,301244,0.011,A,21,34,70,Female,Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,10,0.109,132.99,Standard,INR
+POL00718,1014.74,280698,0.015,C,45,52,70,Male,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,13,0.103,57.25,Special,EUR
+POL00719,4979.75,476497,0.033,D,39,32,70,Other,Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,12,0.057,246.77,Standard,INR
+POL00720,1431.55,99411,0.028,C,39,52,63,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,9,0.085,378.32,Special,GBP
+POL00721,0,418508,0.049,D,28,57,62,Other,Non-Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Terminated,27,0.13,352.9,Special,EUR
+POL00722,3871.54,219804,0.005,B,31,30,69,Other,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,27,0.1,338.46,Special,GBP
+POL00723,3970.16,300488,0.027,D,54,62,73,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,31,0.072,184.51,Special,INR
+POL00724,4488,191242,0.046,A,57,29,77,Female,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,12,0.086,77.28,Special,USD
+POL00725,3431.47,87054,0.044,C,47,63,76,Male,Non-Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,16,0.061,118.68,Standard,EUR
+POL00726,4024.81,400972,0.045,B,49,50,61,Female,Non-Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,4,0.086,384.64,Standard,GBP
+POL00727,4388.97,136956,0.039,D,49,39,72,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,15,0.07,209.5,Standard,INR
+POL00728,3451.12,345013,0.008,B,42,56,74,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,20,0.097,50.83,Special,INR
+POL00729,4172.9,245816,0.006,C,54,52,62,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,20,0.124,15.79,Special,EUR
+POL00730,1091.42,138717,0.006,A,42,43,78,Male,Non-Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,12,0.098,151.23,Special,USD
+POL00731,0,497597,0.022,B,33,28,70,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Terminated,17,0.107,209.63,Special,GBP
+POL00732,4499.53,251034,0.039,B,60,29,66,Other,Non-Smoker,Single,No,Level,Short Term,Rider,Whole Life,Continuing,23,0.124,421.24,Standard,EUR
+POL00733,3589.39,64142,0.045,A,50,39,61,Female,Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,30,0.052,150.43,Special,EUR
+POL00734,4697.92,471657,0.021,C,49,27,75,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,18,0.063,383.85,Special,GBP
+POL00735,1688.9,441943,0.04,C,47,41,63,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,9,0.051,254.39,Standard,INR
+POL00736,2263.25,320561,0.023,D,35,40,60,Other,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,25,0.055,253.66,Special,USD
+POL00737,4217.03,184557,0.034,D,41,40,71,Other,Non-Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,30,0.085,26.54,Special,EUR
+POL00738,4955.85,414206,0.038,A,40,58,77,Female,Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,15,0.13,271.72,Special,USD
+POL00739,2289.54,478464,0.034,C,48,28,66,Other,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,27,0.069,366.37,Standard,USD
+POL00740,1004.77,433424,0.042,D,51,64,60,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,2,0.069,461.73,Standard,EUR
+POL00741,4968.68,107289,0.016,A,23,30,65,Female,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,16,0.102,237.36,Special,GBP
+POL00742,1593.41,485997,0.009,C,31,58,72,Other,Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,27,0.141,11.19,Special,GBP
+POL00743,1197.46,300695,0.005,C,22,50,78,Other,Non-Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,9,0.079,70.62,Special,GBP
+POL00744,3389.41,52414,0.001,C,33,41,72,Other,Smoker,Joint,No,Level,Long Term,Main,Endowment,Continuing,27,0.058,346.52,Standard,USD
+POL00745,2285.31,111094,0.045,B,49,48,65,Other,Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,29,0.083,449.47,Standard,USD
+POL00746,3111.72,52631,0.04,D,33,47,71,Male,Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,28,0.053,194,Standard,EUR
+POL00747,4181.69,417593,0.004,D,37,58,71,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,17,0.111,222.18,Special,EUR
+POL00748,1275.73,401974,0.005,B,29,65,61,Female,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,18,0.075,25.6,Standard,GBP
+POL00749,3780.08,468980,0.009,D,49,41,64,Other,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Continuing,14,0.124,21.32,Standard,EUR
+POL00750,4794.53,215910,0.026,A,44,28,71,Female,Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,16,0.07,15.52,Special,INR
+POL00751,0,488505,0.037,C,35,37,75,Other,Smoker,Single,Yes,Level,Long Term,Main,Term,Terminated,15,0.084,469.68,Special,USD
+POL00752,1997.63,420685,0.006,B,32,46,78,Other,Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,5,0.059,12.55,Special,GBP
+POL00753,1637.74,404352,0.005,C,45,60,71,Other,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Whole Life,Continuing,10,0.118,140.78,Standard,INR
+POL00754,1286.52,330272,0.028,C,45,47,66,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,10,0.061,147.63,Special,INR
+POL00755,3229.75,485310,0.015,D,43,64,66,Other,Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,27,0.053,288.32,Special,GBP
+POL00756,2959.35,274963,0.022,C,50,32,68,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,Continuing,30,0.078,274.87,Standard,USD
+POL00757,2977.17,452163,0.006,D,60,36,69,Other,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,28,0.073,473.78,Standard,EUR
+POL00758,4553.49,230469,0.046,C,51,36,70,Other,Smoker,Joint,Yes,Level,Long Term,Main,ULIP,Continuing,31,0.144,151.49,Standard,INR
+POL00759,1146.82,251394,0.037,D,46,50,80,Other,Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,13,0.111,371.13,Special,EUR
+POL00760,1814.98,471101,0.023,B,29,53,69,Male,Smoker,Joint,Yes,Level,Short Term,Rider,Endowment,Continuing,2,0.067,78.66,Special,USD
+POL00761,3055.12,357499,0.034,B,45,62,66,Male,Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,22,0.085,262.15,Standard,EUR
+POL00762,1945.36,58173,0.014,B,29,44,77,Female,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,6,0.116,84.64,Special,EUR
+POL00763,3301.74,124487,0.033,A,21,27,73,Other,Smoker,Single,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,19,0.124,302.05,Special,GBP
+POL00764,2929.03,273126,0.019,B,25,55,64,Female,Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,30,0.068,53.76,Special,USD
+POL00765,3277.41,241941,0.034,D,47,24,68,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,10,0.062,151.08,Special,EUR
+POL00766,1576.61,496424,0.021,D,21,33,79,Male,Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,14,0.09,478.41,Standard,EUR
+POL00767,1582.84,450028,0.036,A,37,34,70,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,26,0.128,407.29,Special,EUR
+POL00768,2649.13,205590,0.014,B,37,51,62,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Term,Continuing,6,0.052,276.08,Special,GBP
+POL00769,3732.04,367630,0.037,C,30,39,76,Other,Smoker,Single,No,Level,Long Term,Rider,Whole Life,Continuing,16,0.128,291.42,Special,INR
+POL00770,3613.71,458926,0.029,B,26,21,68,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Term,Continuing,3,0.111,498.54,Standard,USD
+POL00771,4663.95,354332,0.001,A,33,51,72,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,10,0.107,132.81,Special,GBP
+POL00772,4252.45,337595,0.018,A,57,26,68,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,30,0.134,229.21,Special,INR
+POL00773,3703.56,117322,0.022,C,53,44,68,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,9,0.097,148.09,Standard,GBP
+POL00774,4230,320506,0.02,A,37,55,75,Female,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,8,0.111,447.91,Special,INR
+POL00775,0,172738,0.027,A,43,55,71,Female,Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Terminated,21,0.131,351.44,Special,GBP
+POL00776,2003.11,256034,0.043,D,28,21,60,Female,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,8,0.129,72.06,Special,GBP
+POL00777,2326.19,150014,0.038,B,60,38,64,Other,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,15,0.091,85.88,Standard,INR
+POL00778,2629.08,164715,0.003,C,20,29,77,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,19,0.106,74.72,Special,USD
+POL00779,3541.47,344159,0.006,C,53,34,70,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,20,0.111,381.3,Standard,EUR
+POL00780,4234.45,262397,0.015,C,48,35,79,Male,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,7,0.078,85.47,Standard,GBP
+POL00781,2035.2,122433,0.015,A,45,33,62,Female,Non-Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,19,0.063,399.44,Standard,GBP
+POL00782,4277.87,172436,0.037,B,57,45,65,Male,Non-Smoker,Joint,No,Increasing,Short Term,Rider,Endowment,Continuing,25,0.06,479.53,Standard,GBP
+POL00783,1061.91,370830,0.007,D,54,51,70,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,Continuing,17,0.075,82.6,Standard,EUR
+POL00784,3617.6,326009,0.049,B,36,37,74,Female,Smoker,Single,Yes,Level,Long Term,Rider,ULIP,Continuing,12,0.125,96.84,Standard,INR
+POL00785,4246.88,109455,0.043,A,53,50,77,Male,Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,10,0.115,442.76,Special,INR
+POL00786,0,81503,0.029,B,21,61,77,Other,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Terminated,20,0.114,380.7,Standard,INR
+POL00787,1813.67,484819,0.045,D,57,61,67,Female,Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,11,0.078,181.34,Standard,USD
+POL00788,1075.07,215722,0,A,57,60,61,Male,Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,25,0.097,155.97,Special,INR
+POL00789,2132.53,354854,0.039,D,51,60,63,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,22,0.087,463.87,Special,INR
+POL00790,4661.09,430678,0.045,C,33,51,70,Female,Non-Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,29,0.108,419.93,Special,GBP
+POL00791,4734.79,158743,0.006,C,20,39,66,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,8,0.136,333.04,Standard,INR
+POL00792,3170.13,65818,0.023,A,55,64,77,Female,Non-Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,20,0.103,151.11,Special,GBP
+POL00793,1877.69,317858,0.034,C,39,38,62,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,21,0.107,34.81,Standard,USD
+POL00794,0,426286,0.023,C,32,52,79,Female,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Terminated,4,0.149,412.51,Special,INR
+POL00795,4204.59,213012,0.044,B,58,32,77,Female,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,26,0.119,381.56,Standard,EUR
+POL00796,2630.52,199485,0.02,B,47,31,78,Other,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,7,0.132,420.42,Special,USD
+POL00797,1414.85,340131,0.028,D,41,21,71,Male,Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,27,0.134,104.87,Standard,GBP
+POL00798,2122.26,481377,0.033,B,55,60,80,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,31,0.107,336.03,Special,GBP
+POL00799,2445.86,318292,0.014,A,54,38,78,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,ULIP,Continuing,20,0.09,162.33,Standard,EUR
+POL00800,2036.98,279626,0.045,B,36,55,70,Other,Smoker,Joint,No,Level,Short Term,Rider,ULIP,Continuing,2,0.055,445.63,Standard,USD
+POL00801,2882.73,119869,0.007,B,25,37,70,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Continuing,13,0.088,324.09,Special,EUR
+POL00802,2463.38,430633,0.028,D,53,59,66,Female,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,18,0.099,203.34,Standard,INR
+POL00803,1485.09,146471,0.013,D,57,35,69,Female,Smoker,Single,No,Level,Short Term,Main,ULIP,Continuing,14,0.135,425.95,Special,EUR
+POL00804,1187.97,351443,0.004,B,33,41,69,Other,Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Continuing,25,0.128,224.68,Standard,GBP
+POL00805,2051.19,327990,0.038,C,27,46,74,Female,Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,8,0.054,158.22,Standard,USD
+POL00806,4874.56,72500,0.03,D,54,65,79,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Endowment,Continuing,4,0.092,99.72,Special,EUR
+POL00807,2953.98,477229,0.017,A,59,41,61,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,25,0.115,275.13,Standard,INR
+POL00808,2911.29,312148,0.045,C,27,59,61,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,22,0.12,458.78,Standard,GBP
+POL00809,3995.17,437429,0.03,B,25,29,77,Female,Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,10,0.104,29.97,Standard,GBP
+POL00810,3670.56,283310,0.047,B,45,45,65,Female,Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,21,0.062,488.09,Standard,INR
+POL00811,1197.66,169757,0.045,B,23,44,69,Male,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,ULIP,Continuing,2,0.144,8.57,Standard,EUR
+POL00812,3780.42,318820,0.019,B,30,63,65,Other,Non-Smoker,Single,No,Level,Long Term,Main,Whole Life,Continuing,7,0.134,58.86,Standard,EUR
+POL00813,2453.05,408009,0.036,B,39,50,68,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,9,0.093,15.04,Special,INR
+POL00814,0,360179,0.041,D,43,36,78,Other,Non-Smoker,Single,No,Level,Short Term,Rider,Whole Life,Terminated,12,0.058,441.44,Standard,GBP
+POL00815,4101.19,266284,0.046,D,42,46,64,Male,Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,Continuing,30,0.108,105.08,Standard,EUR
+POL00816,1556.81,259668,0.007,D,23,21,67,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,6,0.106,487.51,Standard,GBP
+POL00817,2180.04,328286,0.002,A,23,46,73,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,6,0.06,423.53,Special,EUR
+POL00818,1504.33,252172,0.049,C,39,63,69,Male,Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,15,0.121,178.59,Special,EUR
+POL00819,3359.61,321218,0.019,A,54,24,62,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,9,0.086,87.12,Special,INR
+POL00820,0,52074,0.036,A,20,64,64,Male,Smoker,Joint,Yes,Level,Short Term,Rider,Term,Terminated,26,0.064,226.07,Special,EUR
+POL00821,3754.88,497748,0.026,B,34,59,77,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,Whole Life,Continuing,30,0.064,82.82,Special,USD
+POL00822,2245.08,232908,0.019,B,35,50,71,Female,Non-Smoker,Joint,No,Level,Short Term,Rider,Endowment,Continuing,24,0.141,472.03,Special,GBP
+POL00823,3422.35,103078,0.036,D,53,64,60,Male,Non-Smoker,Joint,No,Level,Short Term,Main,ULIP,Continuing,23,0.122,192.69,Standard,EUR
+POL00824,0,441293,0.044,C,37,58,76,Female,Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Terminated,21,0.147,27.99,Special,EUR
+POL00825,3972.82,293087,0.006,C,30,24,74,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,25,0.103,68.39,Special,USD
+POL00826,1303.43,446719,0.018,D,52,21,78,Female,Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,21,0.129,299.37,Special,INR
+POL00827,2804.68,66893,0.039,C,32,26,71,Other,Smoker,Joint,No,Increasing,Short Term,Rider,ULIP,Continuing,31,0.087,361.38,Standard,INR
+POL00828,1214.15,446645,0.011,C,20,41,62,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,17,0.086,231.22,Standard,INR
+POL00829,2358.22,375057,0.031,D,54,21,66,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Whole Life,Continuing,16,0.11,289.86,Standard,USD
+POL00830,3935.81,396415,0.019,D,39,44,74,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Term,Continuing,18,0.123,403.08,Standard,GBP
+POL00831,1016.43,438617,0.03,C,31,57,74,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,10,0.141,377.81,Special,EUR
+POL00832,4087.64,275334,0.028,B,35,53,67,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,6,0.11,185.01,Special,GBP
+POL00833,2851.9,466639,0.035,A,52,33,63,Other,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,12,0.075,87.69,Standard,USD
+POL00834,3883.36,143634,0.041,C,42,56,60,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Endowment,Continuing,24,0.122,190.15,Standard,EUR
+POL00835,3666.02,62198,0.023,B,21,59,76,Other,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,19,0.12,231.74,Special,EUR
+POL00836,3288.29,192107,0.018,C,23,34,67,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,20,0.079,216.54,Standard,GBP
+POL00837,3815.25,347051,0.041,A,24,60,79,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,25,0.101,251.87,Standard,INR
+POL00838,3628.88,191611,0.026,D,38,46,68,Male,Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,17,0.105,302.16,Standard,GBP
+POL00839,2157.41,475008,0.037,B,54,34,74,Male,Non-Smoker,Single,No,Level,Long Term,Main,ULIP,Continuing,20,0.064,329.77,Standard,GBP
+POL00840,1388.96,400537,0.042,B,53,30,78,Other,Smoker,Joint,Yes,Level,Long Term,Main,Term,Continuing,6,0.133,309.42,Special,EUR
+POL00841,4849.69,202744,0.022,C,59,60,69,Female,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,4,0.055,273.7,Standard,EUR
+POL00842,3945.34,266741,0.02,C,39,24,77,Female,Non-Smoker,Single,No,Level,Long Term,Rider,Endowment,Continuing,12,0.061,128.64,Special,GBP
+POL00843,3450.89,237198,0.043,A,45,39,68,Other,Non-Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,24,0.14,115.99,Special,USD
+POL00844,1479.72,399350,0.036,C,24,22,64,Female,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,10,0.059,459.92,Special,EUR
+POL00845,3201.04,268442,0.031,A,56,29,64,Male,Smoker,Joint,No,Level,Short Term,Rider,Endowment,Continuing,11,0.144,384.13,Standard,GBP
+POL00846,2051.03,56885,0.035,D,41,21,69,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,22,0.132,56.98,Standard,GBP
+POL00847,4593.44,339103,0.037,B,23,32,70,Female,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,Continuing,11,0.139,321.12,Standard,EUR
+POL00848,1036.72,155673,0.013,C,51,39,77,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,5,0.108,188.11,Special,USD
+POL00849,1944.94,386162,0.014,A,34,61,78,Male,Non-Smoker,Joint,No,Level,Short Term,Rider,Endowment,Continuing,21,0.066,226.4,Special,INR
+POL00850,1520.18,183023,0.01,B,22,28,78,Other,Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,9,0.134,247.83,Standard,USD
+POL00851,2304.93,457798,0.047,B,58,36,67,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,8,0.086,167.44,Standard,INR
+POL00852,3905.6,433996,0.014,D,34,36,70,Female,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,23,0.079,329.15,Standard,EUR
+POL00853,4966.98,257884,0.025,A,44,63,70,Male,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Continuing,31,0.147,391.82,Standard,INR
+POL00854,3860.53,82107,0.002,A,43,43,79,Female,Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,21,0.139,436.54,Standard,USD
+POL00855,3017.76,310012,0.04,A,53,40,80,Male,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,17,0.127,479.8,Standard,USD
+POL00856,2744.19,310811,0.02,C,59,57,60,Male,Smoker,Single,No,Increasing,Short Term,Rider,Endowment,Continuing,23,0.072,55.79,Special,GBP
+POL00857,4795.3,497110,0.023,A,53,56,73,Male,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,2,0.125,464.59,Standard,INR
+POL00858,1480.73,200873,0.047,D,41,62,80,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,16,0.109,236.95,Standard,USD
+POL00859,1300.58,350061,0.019,A,38,49,68,Other,Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,22,0.147,160.76,Standard,GBP
+POL00860,4556.09,472350,0.037,A,22,23,65,Male,Non-Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,27,0.115,302.94,Standard,INR
+POL00861,2697.81,308686,0.039,C,21,26,76,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Whole Life,Continuing,15,0.063,228.34,Special,USD
+POL00862,1169.44,361270,0.01,B,57,40,69,Other,Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,12,0.148,35.6,Standard,GBP
+POL00863,3589.77,90391,0.003,B,51,52,74,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,26,0.082,159,Special,USD
+POL00864,2874.48,439907,0.017,B,30,31,76,Other,Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,12,0.106,317.32,Standard,EUR
+POL00865,3471.7,275513,0.034,C,31,30,67,Male,Smoker,Single,Yes,Level,Short Term,Main,Term,Continuing,24,0.08,284.84,Special,INR
+POL00866,2083.26,150465,0.038,C,37,26,72,Male,Smoker,Single,Yes,Level,Long Term,Main,Term,Continuing,22,0.134,182,Special,INR
+POL00867,1629.18,235589,0.033,D,49,64,73,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,ULIP,Continuing,21,0.084,184.72,Special,USD
+POL00868,1457.02,448838,0.047,D,26,39,80,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,31,0.119,405.29,Standard,INR
+POL00869,3030.73,273017,0,B,32,52,67,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,ULIP,Continuing,27,0.064,476.11,Special,GBP
+POL00870,3192.13,352739,0.019,C,32,34,61,Male,Non-Smoker,Joint,No,Level,Short Term,Main,ULIP,Continuing,26,0.137,484.1,Special,GBP
+POL00871,1562.58,177127,0.032,D,30,34,70,Female,Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,Continuing,29,0.104,182.22,Special,INR
+POL00872,1679.08,417676,0.005,A,32,39,65,Male,Smoker,Joint,No,Level,Long Term,Rider,ULIP,Continuing,21,0.125,212.09,Standard,EUR
+POL00873,4047.94,160745,0.001,C,40,45,72,Female,Non-Smoker,Joint,No,Level,Long Term,Rider,Whole Life,Continuing,27,0.092,164.6,Special,INR
+POL00874,3109.58,216341,0.007,D,29,35,73,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,11,0.132,45.28,Special,EUR
+POL00875,4443.96,155986,0.037,A,35,61,66,Female,Smoker,Single,No,Increasing,Long Term,Main,Whole Life,Continuing,25,0.068,226.95,Standard,EUR
+POL00876,3694.22,471091,0.043,C,20,63,70,Male,Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,7,0.09,76.55,Standard,EUR
+POL00877,1052.16,236785,0.016,C,26,45,70,Female,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,23,0.147,212.8,Special,USD
+POL00878,3772.8,111852,0.013,B,54,57,76,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,24,0.146,258.5,Standard,USD
+POL00879,4566.85,461464,0.012,B,49,27,68,Female,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,25,0.102,376.72,Special,EUR
+POL00880,3527.4,206439,0.048,B,35,41,80,Male,Non-Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,25,0.149,269.66,Standard,GBP
+POL00881,1429.18,433819,0.025,D,29,38,60,Other,Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Continuing,8,0.051,351.77,Special,EUR
+POL00882,4684.26,114186,0.035,A,36,46,80,Female,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Continuing,3,0.14,116.71,Standard,GBP
+POL00883,3701.45,211745,0.046,A,20,55,80,Other,Non-Smoker,Single,No,Level,Short Term,Main,Endowment,Continuing,13,0.087,28.56,Special,USD
+POL00884,1594.37,160477,0.03,C,55,54,80,Male,Non-Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,21,0.065,480.27,Standard,USD
+POL00885,3981.37,70658,0.013,A,44,59,78,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,5,0.051,127.33,Standard,GBP
+POL00886,4770.4,403047,0.046,C,21,43,65,Other,Non-Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,20,0.141,243,Special,EUR
+POL00887,2683.13,139627,0.036,B,53,28,65,Other,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,4,0.09,166.49,Standard,GBP
+POL00888,2190.89,226333,0.002,B,56,31,77,Other,Smoker,Single,Yes,Level,Long Term,Rider,ULIP,Continuing,25,0.056,272.41,Standard,EUR
+POL00889,2037.71,195603,0.032,A,24,30,63,Male,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,28,0.115,413.67,Standard,USD
+POL00890,1891.53,320948,0.043,B,26,62,64,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,7,0.071,145.86,Standard,GBP
+POL00891,3262.62,293572,0.006,C,53,24,60,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,ULIP,Continuing,21,0.079,245.9,Standard,INR
+POL00892,4026.6,495871,0.048,C,55,59,79,Male,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,Continuing,24,0.059,218.86,Special,EUR
+POL00893,3678.41,164206,0.002,A,59,21,68,Other,Non-Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,11,0.099,345.66,Special,GBP
+POL00894,3186.09,380871,0.009,D,38,47,67,Other,Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,13,0.083,88.07,Standard,USD
+POL00895,4245.85,489924,0.001,B,52,52,61,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,Continuing,23,0.113,234.38,Special,INR
+POL00896,4036.67,301121,0.019,A,48,41,78,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,Term,Continuing,17,0.121,396.56,Standard,GBP
+POL00897,1080.27,226719,0.035,D,39,35,66,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,22,0.085,165.1,Standard,EUR
+POL00898,0,421110,0.033,A,41,33,66,Female,Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Terminated,18,0.096,391.69,Special,GBP
+POL00899,1203.52,100573,0.024,A,34,49,68,Other,Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,Continuing,25,0.142,373.42,Standard,GBP
+POL00900,4191.61,291100,0.004,B,30,51,78,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,ULIP,Continuing,22,0.06,181.9,Standard,USD
+POL00901,4694.8,249724,0.048,B,22,25,73,Male,Non-Smoker,Joint,Yes,Level,Short Term,Rider,ULIP,Continuing,16,0.147,495.09,Special,INR
+POL00902,3170.39,173281,0.028,D,43,35,78,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,26,0.061,59.69,Special,INR
+POL00903,4409.46,120811,0.036,D,23,45,72,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,8,0.129,251.4,Special,INR
+POL00904,3334.25,442327,0.014,C,52,21,79,Female,Non-Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,26,0.139,205.72,Special,USD
+POL00905,3673.29,302920,0.04,A,32,49,68,Male,Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,13,0.133,0.17,Standard,GBP
+POL00906,3045.26,297810,0.031,B,50,57,69,Female,Smoker,Single,No,Level,Long Term,Rider,Endowment,Continuing,16,0.067,160.73,Special,INR
+POL00907,4051,316564,0.045,D,25,23,69,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,17,0.149,84.53,Special,GBP
+POL00908,4613.45,377516,0.02,D,26,33,63,Female,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,19,0.064,366.44,Special,USD
+POL00909,4281.9,337516,0.015,D,58,63,70,Female,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Whole Life,Continuing,9,0.095,205.2,Special,USD
+POL00910,1285.73,326503,0.037,C,40,52,71,Male,Non-Smoker,Single,No,Increasing,Short Term,Main,Whole Life,Continuing,30,0.127,374,Special,EUR
+POL00911,1015.59,73588,0.035,C,44,44,63,Female,Non-Smoker,Single,Yes,Level,Short Term,Rider,Whole Life,Continuing,2,0.107,29.89,Special,EUR
+POL00912,1208.79,304321,0.022,C,39,25,78,Female,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,9,0.115,288.75,Special,USD
+POL00913,4466.24,314304,0.04,C,24,37,70,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,8,0.056,312.18,Special,GBP
+POL00914,3304.98,332855,0.015,B,50,43,76,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,ULIP,Continuing,15,0.126,177.28,Special,EUR
+POL00915,2255.37,329851,0.046,D,52,23,65,Male,Smoker,Single,Yes,Level,Long Term,Rider,Endowment,Continuing,15,0.097,139.78,Special,EUR
+POL00916,4837.86,87022,0.031,B,29,36,73,Female,Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,6,0.062,365.1,Standard,INR
+POL00917,3364.78,84939,0.039,B,34,52,72,Male,Non-Smoker,Joint,Yes,Level,Long Term,Main,ULIP,Continuing,4,0.08,378.54,Special,INR
+POL00918,3125.64,359193,0.036,C,48,61,72,Female,Smoker,Joint,No,Level,Long Term,Rider,Term,Continuing,12,0.054,208.23,Standard,GBP
+POL00919,2535.75,423637,0.033,C,40,47,60,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,Continuing,6,0.094,413.77,Special,INR
+POL00920,2278.21,115659,0.035,A,23,51,68,Female,Smoker,Joint,Yes,Level,Short Term,Rider,Whole Life,Continuing,20,0.102,443.22,Standard,EUR
+POL00921,4233.55,402589,0.01,C,50,32,70,Other,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,28,0.105,17.4,Standard,GBP
+POL00922,1167.68,268903,0.03,C,37,61,74,Other,Smoker,Joint,Yes,Level,Long Term,Rider,Term,Continuing,28,0.053,34.15,Standard,GBP
+POL00923,2454.97,495169,0.038,A,28,23,78,Male,Smoker,Single,No,Level,Long Term,Main,Endowment,Continuing,25,0.095,356.74,Special,INR
+POL00924,4426.39,274597,0.012,D,51,32,68,Male,Non-Smoker,Joint,No,Level,Short Term,Rider,Whole Life,Continuing,19,0.078,109.12,Standard,INR
+POL00925,3791.79,303017,0.035,B,52,29,79,Other,Non-Smoker,Single,Yes,Level,Short Term,Main,Whole Life,Continuing,20,0.089,417.34,Standard,USD
+POL00926,3737.95,220216,0.005,A,52,37,60,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,Continuing,9,0.059,111.13,Special,USD
+POL00927,2392.06,283387,0.037,C,46,58,68,Male,Smoker,Joint,Yes,Level,Long Term,Rider,Endowment,Continuing,7,0.051,124.05,Special,INR
+POL00928,3218.73,83428,0.047,C,27,61,73,Male,Smoker,Joint,No,Increasing,Long Term,Main,Endowment,Continuing,12,0.147,38.33,Special,EUR
+POL00929,1548.97,292313,0.033,B,40,44,64,Male,Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,12,0.139,88.54,Special,EUR
+POL00930,4139.73,482477,0.033,A,54,46,68,Other,Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,14,0.088,215.43,Standard,INR
+POL00931,4547.45,287515,0.021,C,47,21,67,Male,Smoker,Joint,No,Increasing,Short Term,Rider,Term,Continuing,18,0.124,13.22,Special,EUR
+POL00932,1816.38,246722,0.007,C,37,31,64,Female,Smoker,Single,Yes,Level,Short Term,Main,ULIP,Continuing,5,0.092,226.42,Standard,GBP
+POL00933,4082.49,64520,0.023,C,43,43,61,Male,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,19,0.054,416.18,Standard,EUR
+POL00934,3385.45,66980,0.005,A,51,40,76,Female,Smoker,Joint,No,Level,Long Term,Main,Term,Continuing,5,0.09,124.93,Special,USD
+POL00935,4830.68,71307,0.038,B,56,23,71,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,20,0.101,490.7,Standard,USD
+POL00936,1634.75,122432,0.018,D,23,27,67,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,2,0.125,332.31,Special,INR
+POL00937,3103.9,261094,0.028,B,51,42,76,Male,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,29,0.142,226.83,Standard,GBP
+POL00938,0,412666,0.019,B,59,58,68,Male,Smoker,Joint,Yes,Increasing,Long Term,Rider,Endowment,Terminated,25,0.112,484.48,Special,EUR
+POL00939,4478.82,176269,0.01,A,35,25,74,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Endowment,Continuing,6,0.146,432.89,Standard,USD
+POL00940,1094.75,389653,0.027,C,49,40,80,Female,Smoker,Joint,Yes,Increasing,Long Term,Main,Term,Continuing,25,0.085,330.88,Standard,GBP
+POL00941,4903.56,284822,0.019,D,23,38,80,Other,Non-Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,Continuing,18,0.149,445.11,Standard,USD
+POL00942,2960.9,180026,0.043,A,29,64,65,Male,Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,Continuing,5,0.085,313.74,Standard,EUR
+POL00943,2556.68,57820,0.005,C,44,50,64,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,Continuing,2,0.079,270.17,Standard,EUR
+POL00944,2670.22,350757,0.003,B,38,50,60,Other,Non-Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,11,0.08,483.25,Special,EUR
+POL00945,0,80139,0.008,A,58,43,74,Other,Non-Smoker,Joint,No,Level,Long Term,Rider,Endowment,Terminated,14,0.133,258.01,Special,USD
+POL00946,1647.24,426374,0.047,C,44,51,78,Other,Smoker,Single,No,Level,Long Term,Rider,ULIP,Continuing,12,0.114,246.6,Special,INR
+POL00947,2621.67,110904,0.022,D,43,59,61,Male,Non-Smoker,Joint,No,Level,Short Term,Main,Whole Life,Continuing,21,0.142,489.96,Standard,GBP
+POL00948,2367.26,345145,0.034,D,57,62,78,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,30,0.106,309.63,Standard,INR
+POL00949,2661.03,427076,0.002,C,38,58,64,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Endowment,Continuing,22,0.072,163.67,Special,INR
+POL00950,2216.21,165942,0.023,C,54,65,76,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Endowment,Continuing,22,0.134,330.39,Special,USD
+POL00951,3241.12,111198,0.002,A,59,58,79,Female,Non-Smoker,Single,No,Increasing,Long Term,Rider,Whole Life,Continuing,27,0.122,59.34,Standard,USD
+POL00952,1623.5,393570,0.031,D,33,61,69,Female,Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,12,0.125,11.94,Special,GBP
+POL00953,4826.32,145398,0.043,C,31,29,68,Male,Non-Smoker,Joint,No,Increasing,Long Term,Rider,Term,Continuing,30,0.112,446.14,Special,EUR
+POL00954,1175.87,170586,0.01,D,38,58,77,Other,Smoker,Joint,No,Increasing,Short Term,Main,Whole Life,Continuing,21,0.132,443.75,Special,EUR
+POL00955,2488.63,289324,0.014,A,31,27,60,Female,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,9,0.14,137.42,Standard,INR
+POL00956,4850.46,263353,0.043,B,25,50,62,Other,Non-Smoker,Single,Yes,Level,Long Term,Main,Whole Life,Continuing,13,0.052,380.02,Special,GBP
+POL00957,3581.71,218050,0.002,C,21,28,70,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,Endowment,Continuing,9,0.11,35.01,Standard,USD
+POL00958,1245.05,398907,0.039,B,38,41,70,Male,Non-Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,16,0.12,364.87,Standard,INR
+POL00959,2639.78,301192,0.023,A,31,22,76,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Term,Continuing,2,0.09,184.19,Special,EUR
+POL00960,2703.62,119856,0.004,B,37,49,64,Female,Smoker,Single,No,Increasing,Short Term,Rider,ULIP,Continuing,20,0.085,18.31,Special,EUR
+POL00961,3032.63,495238,0.045,C,48,44,67,Other,Smoker,Joint,No,Increasing,Short Term,Main,ULIP,Continuing,11,0.119,99.94,Special,EUR
+POL00962,2798.4,160001,0.009,D,43,48,74,Male,Smoker,Joint,No,Level,Short Term,Rider,Term,Continuing,7,0.066,298.46,Special,EUR
+POL00963,3493.05,108670,0.037,B,40,47,80,Female,Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,4,0.064,80.03,Standard,INR
+POL00964,1559.91,145707,0.022,C,60,50,74,Other,Non-Smoker,Single,Yes,Increasing,Short Term,Main,Endowment,Continuing,6,0.115,50.64,Special,INR
+POL00965,4631.79,221002,0.034,C,38,45,77,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,18,0.125,494.21,Standard,EUR
+POL00966,3277.77,211830,0.009,B,54,63,77,Male,Non-Smoker,Single,Yes,Increasing,Long Term,Rider,ULIP,Continuing,21,0.079,333.47,Standard,USD
+POL00967,3193.12,186198,0.044,A,36,63,61,Female,Smoker,Single,No,Level,Short Term,Main,Endowment,Continuing,22,0.086,252.03,Standard,GBP
+POL00968,1467.31,69980,0.002,D,46,30,66,Female,Non-Smoker,Single,No,Level,Long Term,Rider,Term,Continuing,17,0.09,94.81,Standard,EUR
+POL00969,4048.11,470653,0.011,C,30,57,66,Male,Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,Continuing,28,0.118,355.83,Standard,GBP
+POL00970,2913.48,305923,0.013,A,51,30,80,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,Continuing,27,0.109,175.38,Special,INR
+POL00971,4127.88,149361,0.038,B,59,43,68,Female,Smoker,Single,No,Increasing,Long Term,Rider,ULIP,Continuing,22,0.109,8.74,Standard,EUR
+POL00972,1184.11,445083,0.019,B,34,48,75,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Term,Continuing,23,0.117,41.84,Special,USD
+POL00973,4279.38,260280,0.014,C,34,48,62,Other,Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,29,0.111,270.56,Standard,INR
+POL00974,2077.63,294057,0.004,A,42,57,71,Male,Non-Smoker,Single,No,Increasing,Long Term,Main,Term,Continuing,21,0.079,164.28,Standard,INR
+POL00975,2131.4,402979,0.025,C,27,42,78,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Continuing,26,0.073,17.96,Standard,GBP
+POL00976,3572.89,341542,0.023,D,45,43,78,Female,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,4,0.11,32.49,Special,GBP
+POL00977,4792.48,115202,0.049,A,58,21,64,Male,Smoker,Single,No,Increasing,Long Term,Rider,Term,Continuing,14,0.096,341.04,Special,GBP
+POL00978,0,194737,0.007,C,37,24,63,Male,Smoker,Joint,No,Level,Short Term,Main,Endowment,Terminated,31,0.069,101.56,Standard,INR
+POL00979,0,477975,0.042,C,57,28,68,Other,Non-Smoker,Single,No,Increasing,Short Term,Rider,Term,Terminated,20,0.083,382.89,Special,GBP
+POL00980,2676.18,134689,0.001,C,39,56,80,Female,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,5,0.126,180.95,Standard,GBP
+POL00981,2831.51,387682,0.039,D,41,41,64,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,Continuing,2,0.123,167.37,Special,INR
+POL00982,3846.77,256621,0.011,B,33,62,63,Male,Smoker,Single,No,Level,Short Term,Main,Term,Continuing,3,0.131,183.85,Standard,INR
+POL00983,4679.39,113614,0.007,B,51,47,76,Female,Non-Smoker,Joint,No,Level,Short Term,Main,Term,Continuing,21,0.148,147.86,Special,USD
+POL00984,3508.44,142337,0.01,C,25,60,65,Other,Non-Smoker,Joint,No,Increasing,Long Term,Rider,ULIP,Continuing,22,0.079,350.96,Special,EUR
+POL00985,4608.73,353882,0.011,D,22,36,66,Female,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,Continuing,30,0.121,453.61,Standard,USD
+POL00986,4029.32,112114,0.047,D,21,51,78,Other,Non-Smoker,Joint,Yes,Level,Short Term,Main,Whole Life,Continuing,4,0.131,111.03,Standard,INR
+POL00987,1551.43,236995,0.049,C,27,42,63,Male,Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,Continuing,24,0.061,68.78,Standard,GBP
+POL00988,1613.02,253061,0.016,A,50,45,76,Male,Smoker,Single,No,Level,Short Term,Rider,Term,Continuing,16,0.111,362.32,Standard,INR
+POL00989,1765.25,330326,0.007,D,44,57,60,Female,Smoker,Single,No,Increasing,Short Term,Main,ULIP,Continuing,12,0.062,310.74,Standard,EUR
+POL00990,2732.74,163028,0.033,A,48,36,76,Other,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,29,0.1,301.2,Special,USD
+POL00991,1348.88,258869,0.029,B,47,45,65,Female,Smoker,Single,Yes,Level,Long Term,Rider,Whole Life,Continuing,10,0.101,344.35,Special,INR
+POL00992,1895.12,124479,0.017,C,48,63,61,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,Endowment,Continuing,23,0.051,206.74,Special,GBP
+POL00993,3288.59,436013,0.041,D,20,35,67,Male,Non-Smoker,Joint,No,Increasing,Short Term,Main,Endowment,Continuing,2,0.134,385.03,Special,INR
+POL00994,2600.68,120448,0.014,C,50,63,60,Female,Smoker,Single,No,Level,Short Term,Main,Whole Life,Continuing,24,0.123,447.2,Special,USD
+POL00995,3261.86,89749,0.042,B,44,40,69,Other,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,Continuing,30,0.142,226.53,Standard,EUR
+POL00996,4318.5,452038,0.007,D,59,52,63,Male,Smoker,Single,Yes,Increasing,Long Term,Rider,Term,Continuing,5,0.078,449.55,Standard,INR
+POL00997,3568.46,185279,0.043,C,25,34,66,Male,Non-Smoker,Single,Yes,Level,Short Term,Rider,Endowment,Continuing,10,0.063,281.51,Standard,INR
+POL00998,2566,388439,0.003,C,39,29,60,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,Continuing,22,0.099,178.47,Standard,EUR
+POL00999,3838.32,230723,0.022,A,47,56,70,Female,Smoker,Single,Yes,Increasing,Long Term,Main,ULIP,Continuing,19,0.104,82.39,Special,EUR
+POL01000,1435.3,251851,0.034,C,29,48,72,Male,Non-Smoker,Single,No,Level,Short Term,Rider,ULIP,Continuing,13,0.141,385.49,Standard,EUR
+POL01001,4359.99,464395,0.016,A,49,54,60,Other,Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,New,0,0.131,35.57,Special,USD
+POL01002,4067.46,447179,0.039,A,41,56,77,Other,Smoker,Joint,Yes,Level,Long Term,Main,Endowment,New,0,0.121,471.52,Standard,EUR
+POL01003,4719.74,264967,0.044,D,23,28,77,Female,Non-Smoker,Joint,Yes,Level,Long Term,Rider,Whole Life,New,0,0.095,60.05,Special,USD
+POL01004,4140.68,354828,0.027,C,46,48,73,Male,Non-Smoker,Single,No,Increasing,Long Term,Rider,ULIP,New,0,0.109,67.37,Standard,USD
+POL01005,3531.52,320230,0.043,D,59,29,68,Male,Smoker,Joint,No,Increasing,Long Term,Rider,Endowment,New,0,0.144,38.64,Special,INR
+POL01006,1292.02,124870,0.015,C,22,43,74,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Term,New,0,0.084,337.09,Standard,INR
+POL01007,2929.48,354367,0.01,C,25,37,68,Other,Non-Smoker,Joint,No,Level,Short Term,Rider,ULIP,New,0,0.137,448.23,Standard,EUR
+POL01008,2537.86,296007,0.005,D,43,36,78,Male,Non-Smoker,Single,No,Level,Short Term,Main,ULIP,New,0,0.106,487.74,Standard,EUR
+POL01009,3804.47,68047,0.001,D,57,33,79,Male,Non-Smoker,Joint,Yes,Level,Short Term,Main,Endowment,New,0,0.057,19.57,Special,INR
+POL01010,4505.19,71577,0.013,C,32,36,70,Male,Smoker,Joint,Yes,Level,Long Term,Main,Whole Life,New,0,0.051,357.12,Special,INR
+POL01011,3723.23,252941,0.018,A,44,42,65,Female,Non-Smoker,Single,Yes,Increasing,Long Term,Main,Endowment,New,0,0.072,344.62,Standard,GBP
+POL01012,1615.8,305433,0.03,A,58,48,79,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,ULIP,New,0,0.146,315.17,Special,USD
+POL01013,3202.13,416485,0.019,B,27,38,67,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Whole Life,New,0,0.068,411.85,Standard,EUR
+POL01014,3969.88,375827,0.011,C,44,46,71,Other,Smoker,Single,No,Level,Long Term,Rider,Whole Life,New,0,0.126,272,Special,GBP
+POL01015,2091.11,366663,0.04,C,53,36,79,Other,Smoker,Single,Yes,Increasing,Short Term,Main,Term,New,0,0.129,462.78,Special,EUR
+POL01016,2338.12,362657,0.012,D,32,35,64,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,Whole Life,New,0,0.118,288.27,Special,EUR
+POL01017,3898.74,452699,0.013,B,41,27,66,Male,Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,New,0,0.074,488.04,Standard,USD
+POL01018,2474.38,172438,0.01,D,28,30,65,Female,Smoker,Joint,No,Level,Long Term,Main,ULIP,New,0,0.079,43.93,Standard,GBP
+POL01019,1814.23,198668,0.003,C,56,29,78,Other,Smoker,Joint,No,Level,Long Term,Main,Whole Life,New,0,0.066,40.09,Special,INR
+POL01020,3972.32,81034,0.016,D,38,64,73,Female,Non-Smoker,Joint,No,Level,Long Term,Main,Term,New,0,0.101,4.57,Standard,INR
+POL01021,2103.48,261352,0.038,B,21,56,72,Female,Smoker,Single,No,Increasing,Long Term,Rider,Endowment,New,0,0.089,424.16,Standard,EUR
+POL01022,3609.68,482869,0.039,A,58,31,66,Male,Non-Smoker,Joint,No,Level,Short Term,Rider,ULIP,New,0,0.051,22.68,Special,USD
+POL01023,2575.5,281973,0.011,C,35,47,60,Male,Non-Smoker,Single,Yes,Increasing,Short Term,Rider,ULIP,New,0,0.07,39.79,Standard,GBP
+POL01024,2070.89,191887,0.01,D,31,52,71,Male,Non-Smoker,Joint,Yes,Level,Long Term,Rider,ULIP,New,0,0.118,225.13,Standard,INR
+POL01025,1931.97,229244,0.031,D,42,51,75,Female,Non-Smoker,Single,No,Increasing,Short Term,Main,Endowment,New,0,0.072,239.32,Standard,GBP
+POL01026,3757.48,458636,0.009,B,41,46,75,Male,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,ULIP,New,0,0.074,233.05,Standard,EUR
+POL01027,2598.89,194512,0.021,B,37,54,66,Other,Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,New,0,0.139,415.19,Standard,GBP
+POL01028,4602.52,368157,0.025,B,42,38,80,Female,Smoker,Joint,Yes,Level,Short Term,Main,Term,New,0,0.08,52.15,Special,INR
+POL01029,4964.07,125824,0.016,A,28,48,78,Other,Non-Smoker,Joint,No,Increasing,Long Term,Main,Endowment,New,0,0.065,144.16,Standard,USD
+POL01030,3393.73,456357,0.041,B,57,58,63,Male,Non-Smoker,Single,No,Level,Short Term,Rider,Endowment,New,0,0.082,205.4,Standard,GBP
+POL01031,4318.34,230203,0.031,D,52,51,66,Female,Smoker,Joint,No,Level,Long Term,Rider,ULIP,New,0,0.055,274.95,Standard,GBP
+POL01032,4984.28,438834,0.015,B,29,59,75,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Endowment,New,0,0.145,220.27,Standard,GBP
+POL01033,1891.95,91612,0.035,D,26,23,67,Other,Smoker,Single,No,Level,Short Term,Rider,Whole Life,New,0,0.138,482.62,Special,GBP
+POL01034,4367.25,146800,0.036,B,47,44,77,Male,Smoker,Joint,No,Level,Short Term,Rider,Whole Life,New,0,0.131,138.16,Standard,INR
+POL01035,4981.6,81607,0.009,C,49,23,77,Male,Smoker,Single,Yes,Level,Short Term,Rider,ULIP,New,0,0.144,282.38,Standard,EUR
+POL01036,3551.85,228661,0.046,D,30,36,69,Other,Non-Smoker,Joint,Yes,Increasing,Long Term,Rider,Whole Life,New,0,0.115,12.64,Standard,INR
+POL01037,2081.54,182847,0.019,C,23,54,72,Other,Non-Smoker,Single,No,Increasing,Long Term,Main,Whole Life,New,0,0.141,117.35,Standard,USD
+POL01038,1216.74,124404,0.011,A,52,28,70,Male,Non-Smoker,Single,Yes,Level,Long Term,Main,Term,New,0,0.064,179.14,Standard,EUR
+POL01039,3349.02,92296,0.043,D,28,47,76,Male,Smoker,Single,No,Level,Short Term,Main,ULIP,New,0,0.081,359.68,Standard,INR
+POL01040,2011.97,98792,0.029,A,24,31,60,Other,Non-Smoker,Single,Yes,Level,Long Term,Rider,Term,New,0,0.118,133.54,Standard,USD
+POL01041,4583.86,495047,0.02,B,28,64,74,Other,Non-Smoker,Joint,Yes,Level,Short Term,Rider,Term,New,0,0.138,104.53,Special,GBP
+POL01042,3897.17,188247,0.034,B,44,39,71,Female,Non-Smoker,Joint,Yes,Increasing,Short Term,Rider,Whole Life,New,0,0.054,405.82,Standard,EUR
+POL01043,4511.61,336089,0.003,A,27,36,80,Female,Non-Smoker,Joint,Yes,Increasing,Long Term,Main,ULIP,New,0,0.089,217.21,Special,INR
+POL01044,2717.32,130128,0.022,B,30,26,68,Female,Non-Smoker,Single,No,Level,Long Term,Main,ULIP,New,0,0.136,185.13,Standard,USD
+POL01045,4405.36,417625,0.006,D,20,47,73,Other,Smoker,Joint,No,Increasing,Long Term,Main,Whole Life,New,0,0.112,399.23,Standard,USD
+POL01046,3343.56,424234,0.014,B,30,63,79,Other,Smoker,Single,No,Level,Short Term,Rider,Whole Life,New,0,0.092,318.21,Standard,EUR
+POL01047,1790.49,186439,0.039,D,51,48,75,Other,Non-Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,New,0,0.064,101.09,Standard,EUR
+POL01048,2644.48,365127,0.009,C,32,42,78,Other,Smoker,Joint,Yes,Increasing,Short Term,Main,Whole Life,New,0,0.099,433.6,Standard,GBP
+POL01049,1356.11,79950,0.016,C,48,45,64,Male,Smoker,Single,Yes,Level,Long Term,Main,Term,New,0,0.127,460.83,Special,USD
+POL01050,1473.31,416447,0.043,D,52,46,74,Other,Non-Smoker,Single,No,Level,Short Term,Main,Whole Life,New,0,0.147,289.74,Special,INR
